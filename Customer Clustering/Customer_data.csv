@@ -1,0 +1,1001 @@
+Customer ID,Full Name,Date of Birth,Gender,Annual Income,Previous Investment Experience,Amount to Invest,Expected Rate of Return,Term of Investment,Retirement Goals,Employment Type
+a25cbb59-a1d6-48a4-88d7-ba256994d2b6,Jessica Garrett,1959-07-28,Female,154874,Yes,108032,5-10%,Medium Term,Saving for children's education,Employed
+06948085-536d-4017-b2c3-3bb832712ffe,Paul Brown,1992-01-10,Female,284123,Yes,492021,>10%,Long Term,Saving for vacation,Employed
+42e33806-ed97-4f59-a027-62981b5c5f85,Brittany Martin,1961-08-19,Other,583940,No,444974,5-10%,Long Term,Investing in a business venture,Employed
+aeb7a294-1405-4097-bff6-462ac465812b,John Martin,1974-01-06,Female,768825,Yes,498445,5-10%,Medium Term,Paying off college debt,Unemployed
+c547ef84-4bb6-44bd-a853-e8c5a7c2be8d,John Nelson,1992-06-12,Male,977469,No,335530,5-10%,Short Term,Buying a house,Employed
+4608d7e5-d1f3-4d75-ab82-2fd7d342aa63,Scott Sanders,1970-07-17,Female,449074,Yes,36616,<5%,Long Term,Saving for vacation,Retired
+349c3cd8-4b63-4f06-8ecf-7f0fc4d94730,Carl Page,2000-09-23,Other,252700,No,203624,>10%,Short Term,Buying a house,Unemployed
+7afac4d3-08df-45ec-a2ca-923b3cdd39aa,Deborah Smith,1989-12-03,Male,1758201,No,406438,<5%,Short Term,Buying a house,Retired
+f38fd9ca-9a98-45aa-bca3-b0ba7eb87096,Miguel Reid,1989-07-02,Female,374154,Yes,234252,>10%,Short Term,Saving for vacation,Self-Employed
+09726183-37d2-44c8-997c-b6d4321495c0,Chad Jackson,1963-11-21,Female,1011666,No,86274,<5%,Medium Term,Buying a house,Retired
+f7d304a0-8368-475d-838c-4189dad4776e,Kimberly Chavez,1964-10-31,Female,635469,No,438835,5-10%,Long Term,Saving for vacation,Employed
+a72fd9a9-61d7-4f3c-aa81-c1d90ada762a,James Martinez,1992-06-17,Female,962996,Yes,304620,5-10%,Short Term,Building an emergency fund,Self-Employed
+10e99ea0-ff09-4af8-880f-d04d6ed06cbe,Shawn Ramirez,2004-10-25,Other,1667431,No,285488,<5%,Medium Term,Building an emergency fund,Unemployed
+c3f176a2-f675-4121-8885-f171ff9759f5,Rebekah Larsen,1984-05-09,Other,1826900,No,247829,<5%,Short Term,Investing in a business venture,Self-Employed
+e440ba7c-1015-434d-b076-841ab3fa4891,Carlos Garcia,1959-10-04,Male,312887,No,103191,>10%,Medium Term,Saving for vacation,Employed
+44bb3bca-0843-4785-b276-8d2beda1f988,Jennifer Reyes,1968-08-07,Male,733569,No,359556,<5%,Medium Term,Building an emergency fund,Unemployed
+19e7caa0-c2a0-4d39-aa81-5949f18eecc3,Amanda Walker,2001-06-25,Female,596937,Yes,65346,5-10%,Short Term,Securing a comfortable retirement,Retired
+db927afc-78a8-4587-929b-a8ca8fab0eed,Peter Rodriguez,1996-12-31,Female,1393876,Yes,130640,<5%,Short Term,Securing a comfortable retirement,Unemployed
+8bf17c6a-dcc2-4dfd-9b77-a27924330bdf,Sara Spencer,1969-11-17,Other,1580864,No,98844,<5%,Medium Term,Saving for children's education,Employed
+3b5f552c-1da5-4d44-88c2-9ff974d46b04,Mark Merritt,1973-04-18,Male,1877863,Yes,264726,5-10%,Short Term,Saving for vacation,Unemployed
+3c340285-473c-4cb6-8706-76f2c5fe50c5,Jeff Mueller,1969-03-07,Male,452441,No,230072,>10%,Short Term,Securing a comfortable retirement,Employed
+e21662c3-a91e-45ef-b2f4-ca8cdd741390,Michael Jackson,1986-03-22,Female,294520,Yes,355254,>10%,Medium Term,Investing in a business venture,Retired
+190db2cf-395a-4810-938f-4ccefc0fdd52,Michael Ortiz,2002-03-07,Female,793461,No,265821,<5%,Long Term,Securing a comfortable retirement,Unemployed
+30af5651-8ac6-426a-9adb-69bfe2b8d367,Alexandra Porter,2004-04-19,Male,691767,No,56631,>10%,Medium Term,Building an emergency fund,Unemployed
+06e9e804-3096-4a60-a2fb-ba5bce8984d6,Sara Nelson,1969-06-16,Other,1187512,Yes,474379,<5%,Long Term,Securing a comfortable retirement,Unemployed
+38405e50-6b61-46e9-8568-79c2af88053d,Colin Walker,1988-04-01,Female,1007867,Yes,296122,5-10%,Long Term,Saving for vacation,Unemployed
+4ebafa7c-0ad9-471f-a572-7b602b608324,Brenda Horton,1965-02-18,Male,977531,Yes,473805,>10%,Medium Term,Building an emergency fund,Retired
+79d2005c-a7d4-4d15-aeb6-4a75c79ed5cc,James Li,2000-08-08,Other,665924,No,7626,>10%,Short Term,Securing a comfortable retirement,Employed
+57eb8416-88c9-4dda-83a8-02db0a1234fc,Karen Jackson,1999-08-03,Male,1860283,No,406791,<5%,Short Term,Building an emergency fund,Self-Employed
+3121c012-317b-4cfe-91ae-b281eaca3bcb,Cindy Mclaughlin,2005-07-30,Other,400434,Yes,349444,<5%,Short Term,Securing a comfortable retirement,Employed
+1681179c-5257-4ff2-b8c5-0df1ae20bc5e,Heather Barrett,1975-01-26,Other,1749858,Yes,415045,<5%,Medium Term,Investing in a business venture,Retired
+24d9e3d5-0b02-4d59-af55-92b905103fbd,Joseph Ballard,1973-10-26,Female,1060100,No,125737,<5%,Long Term,Paying off college debt,Self-Employed
+0214671d-679d-43b2-8b6d-47ec62a3fdd4,Jennifer White,1980-09-02,Female,890004,Yes,233355,>10%,Medium Term,Securing a comfortable retirement,Self-Employed
+aaef7426-d5a3-4742-a10c-7fe872edc8c4,Daniel Moses,1976-04-14,Other,768323,No,101168,<5%,Short Term,Saving for children's education,Self-Employed
+553bff39-41f2-4e0e-beba-0e15ddfff7e9,Andrew Zavala,1989-01-03,Other,663285,No,428999,>10%,Medium Term,Buying a house,Unemployed
+d3ded837-e7a0-41d6-a338-293efdfdfbf1,Laura Jackson,2000-06-24,Other,1056995,Yes,255253,>10%,Short Term,Saving for vacation,Employed
+ba888022-86c7-4998-800e-3c6fcd154280,Kaylee Kent,1995-02-08,Other,1792388,Yes,434011,<5%,Short Term,Building an emergency fund,Employed
+8655af02-e564-4602-9cab-fc482a3cfdce,Donna King,1972-12-26,Female,1592553,No,338931,5-10%,Long Term,Saving for vacation,Self-Employed
+ce546cd5-4a3e-47d9-a535-e1cfa61baa98,Victoria Jefferson,1990-02-19,Other,1782277,No,436509,>10%,Short Term,Securing a comfortable retirement,Self-Employed
+b4a730e0-ecdc-4ee7-bf30-54ad294a6126,Jennifer Gardner,1983-08-01,Female,1662639,No,351430,>10%,Short Term,Saving for vacation,Unemployed
+ae5632db-6fa8-45ce-b016-b9fd5042936c,Mary Stephenson,1980-08-08,Female,52884,No,219920,>10%,Medium Term,Saving for children's education,Retired
+9aef0e5b-2166-4dcb-8ddf-15757d9a0fbc,Sarah Turner,1982-03-22,Male,1390841,Yes,52300,5-10%,Long Term,Paying off college debt,Self-Employed
+5854bf8d-0219-437d-9978-f5e3af49a392,Tracy Walsh,1996-12-28,Other,456150,Yes,168218,<5%,Short Term,Saving for vacation,Employed
+5aa1d163-807b-4870-b563-61de535d4e50,Patricia Davis,1976-04-27,Other,1973293,No,307891,5-10%,Medium Term,Investing in a business venture,Retired
+188cd61a-cc13-47c0-9828-89b95cebed46,Janet Anderson,1978-07-20,Male,398291,No,453760,>10%,Medium Term,Buying a house,Employed
+89196d43-7cf7-4a6c-bde0-9b719685fa59,Tom Perez,1963-04-11,Male,1725777,Yes,172400,5-10%,Short Term,Saving for vacation,Employed
+688ae1d1-a0d9-463f-9035-f7f48686200c,Ricky Perez,1970-04-02,Other,1165742,No,111127,<5%,Medium Term,Securing a comfortable retirement,Employed
+4f5dec20-c94c-4d3e-8d0c-c0fe72a75bd5,Anita Miller,1969-02-03,Male,568771,Yes,328419,5-10%,Medium Term,Saving for children's education,Retired
+6dfd18de-b992-4ea9-8bfa-75ae24897c5a,Devon Calhoun,1996-12-21,Other,1121805,Yes,340149,<5%,Short Term,Saving for children's education,Employed
+ab7f084b-8581-45df-845e-b0e3fe8e9aae,Sarah Tucker,1978-12-13,Other,1994969,Yes,231048,<5%,Long Term,Building an emergency fund,Employed
+d2859bd7-a337-4156-915c-cf5b548d6cc6,Jose Patton,1983-02-23,Other,439305,Yes,162011,5-10%,Medium Term,Paying off college debt,Unemployed
+0bb6e7c9-8706-48ac-9ee8-480c3ec3adf6,Rachel Flores,1984-07-23,Other,1119426,Yes,105818,<5%,Medium Term,Saving for vacation,Employed
+a013abfd-e618-4441-8b98-061739a6360e,Krystal Norman,1981-07-27,Female,1747472,No,235476,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+e681c387-f51b-4a51-a09c-fb5a6f051bec,Courtney Pierce,1963-07-29,Other,1053402,Yes,387336,>10%,Medium Term,Buying a house,Self-Employed
+44ab97a4-343b-4064-9820-b54d69079a9b,Steven Gross,1964-09-10,Female,636568,No,414096,5-10%,Long Term,Buying a house,Self-Employed
+c9f8e6e3-82f2-4a9a-bc71-44208ec112c2,Rebecca Aguilar,1960-12-17,Female,816565,No,231882,5-10%,Medium Term,Saving for children's education,Self-Employed
+98b8f309-982b-4a21-916d-2ad3b45d038c,Mary Elliott,1998-06-24,Male,1525350,No,214252,5-10%,Short Term,Investing in a business venture,Employed
+f6ef96cd-c6ce-44a7-98ee-33fdf9e3c179,Lori May,1979-08-26,Male,1981154,No,236079,>10%,Long Term,Investing in a business venture,Self-Employed
+84c64940-4f14-4cb7-8a77-0bacffe6f174,Amanda Robinson,1968-01-04,Other,1880608,No,48654,5-10%,Short Term,Building an emergency fund,Employed
+0c2bfa75-5e65-40e6-9b7b-a16d162188d1,Steven Wheeler,1961-07-06,Other,1555479,No,450145,<5%,Medium Term,Investing in a business venture,Retired
+c0850eee-fbf5-434f-af8a-aa2dad4fa98a,Ronald Kim,1981-09-25,Female,1579676,Yes,387213,5-10%,Medium Term,Saving for children's education,Employed
+bef1cf35-25e6-4664-9433-bbfc13a39695,John Haas,1990-03-10,Female,754479,No,305377,<5%,Medium Term,Buying a house,Self-Employed
+2a5ef9de-3e7e-4923-b3d3-d2a6d64b279e,Judy Torres,1965-11-28,Other,355406,No,176568,<5%,Long Term,Saving for children's education,Self-Employed
+9d4feb84-326e-40a1-8734-c83136659661,Rebecca Morton,1983-02-10,Other,123983,No,169290,5-10%,Short Term,Securing a comfortable retirement,Retired
+7e70f607-5dfc-4a3a-81c4-07e592621dd9,Jessica Terrell,1961-05-28,Other,142931,Yes,395762,>10%,Long Term,Saving for children's education,Self-Employed
+d7e2094a-fcfc-4bd2-808a-596532a446df,Alyssa Johnson,2004-11-08,Female,1258162,No,21778,5-10%,Medium Term,Saving for children's education,Self-Employed
+c7972e5f-ae8e-4754-a3be-9ef5abdae402,Joel Harris,1969-08-11,Other,114802,No,478085,>10%,Long Term,Buying a house,Self-Employed
+4244bbed-1c4d-48be-a85b-1ec2ec02c55b,Courtney Harris,1965-04-01,Male,1264443,No,273965,<5%,Short Term,Saving for children's education,Retired
+1eeb2bd2-120e-4170-8748-42caefeea760,Alexis Craig,1974-11-28,Other,592287,No,319508,<5%,Long Term,Paying off college debt,Retired
+e2f87a8d-d230-4770-bbc9-3a3b272c4d00,Alexis Wright,1994-04-15,Female,21724,Yes,255512,5-10%,Medium Term,Saving for vacation,Self-Employed
+b14ad902-d087-4d41-bcbc-8e1c5e7c0563,Elizabeth Smith,2000-04-14,Female,577939,Yes,270097,5-10%,Medium Term,Building an emergency fund,Retired
+99004857-8cde-4ac3-b60d-2c6f3ea96ce9,David Herring,1997-10-01,Male,1581841,No,324993,5-10%,Medium Term,Saving for children's education,Unemployed
+90462765-066e-4a08-b705-271f8b84cef7,Renee Smith,1968-12-18,Other,1110044,Yes,302921,5-10%,Medium Term,Securing a comfortable retirement,Self-Employed
+227b7076-33f9-442d-8581-e4df0c3f51b1,Lisa Hayes,1963-02-06,Female,1408653,Yes,18699,<5%,Long Term,Paying off college debt,Retired
+6601ab98-4d20-4984-b1a2-73878414f87e,Michael Delgado,1992-06-01,Male,428901,Yes,150674,>10%,Long Term,Building an emergency fund,Self-Employed
+2d6c6bae-746c-4ee9-a4ec-b3e2bf1e60d6,Patricia Ward,1987-12-27,Other,371773,Yes,160167,>10%,Short Term,Paying off college debt,Unemployed
+21bb3484-1a31-4c0e-80b8-63916d5b0c19,Danielle Butler,2002-05-15,Other,1750016,No,141305,>10%,Short Term,Buying a house,Retired
+36073b9d-117e-413a-973d-1cce806e9f2e,Steven Rogers,1987-02-26,Male,154487,Yes,457792,>10%,Short Term,Investing in a business venture,Unemployed
+e1ed055b-6b6c-4e78-b88e-9e629c23042f,Allen Thomas,1983-03-08,Female,1109768,Yes,157950,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+747885a6-c16a-40c0-b32e-6054d8b11e4e,Ryan Morgan,1968-08-28,Female,94961,No,198398,5-10%,Medium Term,Paying off college debt,Retired
+c17373d6-43f4-4a93-9505-5941f43a5c46,Jacob Hunter,1993-03-14,Female,1307948,Yes,64359,>10%,Short Term,Buying a house,Self-Employed
+975b5b5a-54c4-4bce-84c5-5774c2368af4,Audrey Graham,1984-07-23,Female,1547548,No,498119,<5%,Long Term,Securing a comfortable retirement,Retired
+9a63e87e-cd5f-443b-8553-ca5e08b8d6e1,Nicole Jackson,2001-08-27,Female,1826039,Yes,349273,<5%,Medium Term,Investing in a business venture,Unemployed
+9e0aac9c-d492-4304-9aca-17d1b322b897,Jasmine Wise,1981-09-17,Female,691318,No,43910,>10%,Short Term,Securing a comfortable retirement,Self-Employed
+e8dea516-6569-4149-9464-654fe919b2a9,Nathaniel Martin,1961-04-13,Male,1236860,No,188426,<5%,Medium Term,Securing a comfortable retirement,Unemployed
+51714125-b84e-493c-b20a-7c7294dc5625,Catherine Walker,1980-11-08,Male,657346,Yes,496611,<5%,Short Term,Building an emergency fund,Retired
+837c20a1-7261-41ac-8ff9-8d29212ddfb1,Eric Miller,1972-05-23,Other,741277,No,496553,5-10%,Long Term,Saving for vacation,Employed
+1abb7df3-dc56-49da-80e2-ef07e309c0d4,Victoria Cooper,1977-01-18,Female,1058481,No,167411,5-10%,Short Term,Securing a comfortable retirement,Employed
+22a7106a-e047-4002-89fa-7cab6c6e3bf3,Edward West,1999-01-15,Male,825847,Yes,135516,>10%,Long Term,Saving for vacation,Retired
+a2d7c54a-94b3-40d6-8b56-13626e18de86,Brandy Fisher,1969-10-15,Male,1621575,Yes,7879,5-10%,Medium Term,Paying off college debt,Unemployed
+c5bbd3df-77ae-484f-b086-99501848cea0,Timothy Johnson,1966-07-15,Other,998818,No,243424,<5%,Long Term,Buying a house,Employed
+6829039d-6a68-45ba-89a8-a26af4715921,Nicholas Oliver,1978-06-25,Male,770054,No,489123,5-10%,Medium Term,Building an emergency fund,Retired
+aca60929-94d8-4805-bcdd-1fcd9b4d7b5b,Sarah Smith,1981-09-06,Female,921979,No,124997,>10%,Long Term,Building an emergency fund,Retired
+d90d3aba-94df-4175-8bc2-e3118d50de63,Amanda Fox,1984-05-15,Male,302433,Yes,97080,>10%,Medium Term,Buying a house,Employed
+c0cf5652-4b05-406d-a6cf-ca580d5987b4,Thomas Thomas,1965-10-13,Other,78313,Yes,150774,5-10%,Medium Term,Investing in a business venture,Retired
+75efdaa8-3f06-46ec-87ac-f48be6886eb7,Richard Golden,2000-04-16,Female,1039055,Yes,31758,5-10%,Medium Term,Buying a house,Employed
+1b1790e4-20d9-4b84-9a43-bd14bd9fb267,Cheryl Evans,1996-09-30,Female,1715345,No,97773,>10%,Long Term,Securing a comfortable retirement,Retired
+61e3fd13-688e-41e2-b646-0eeb6b94cd4c,Kristi Vang,1963-11-03,Other,27749,Yes,141276,>10%,Long Term,Paying off college debt,Unemployed
+38c2fc14-51b3-412e-a062-93bc2fb04a89,Jeffrey Ruiz,1964-12-11,Male,546666,Yes,168371,<5%,Long Term,Investing in a business venture,Employed
+81353d56-c2fe-4ed6-851d-83ace949f696,Antonio Mcfarland,2005-03-04,Other,1029230,No,431513,>10%,Short Term,Building an emergency fund,Unemployed
+07c11d03-0f26-4e98-a7c8-4f1d276bb958,Glenn White,1976-08-17,Male,457600,Yes,443211,5-10%,Long Term,Securing a comfortable retirement,Employed
+1ec38d2f-12fa-477a-9c99-3ac82c4d76ee,Mark Stout,1984-09-20,Other,803704,Yes,240381,5-10%,Medium Term,Paying off college debt,Unemployed
+e5612bce-5bfa-47a3-bd41-2a2dcc5a5a96,Sharon Murphy,1972-01-16,Other,537376,No,182741,>10%,Long Term,Building an emergency fund,Retired
+83d9975b-f6c6-43a0-8b17-a7e43be03ee5,Daniel Johnson,1967-08-14,Male,1984093,Yes,423932,<5%,Long Term,Buying a house,Self-Employed
+486555b5-3689-47f4-b06e-db3e5f27b424,Dr. Jessica Smith,1963-02-28,Other,389861,Yes,241882,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+a7fafbe1-394b-4cf3-b0a6-59b792b8e686,Charles Wright,1987-12-14,Male,1607875,No,441749,>10%,Long Term,Buying a house,Self-Employed
+f321028b-4441-48ae-b48d-15670cd325b1,Cindy Gates,1974-10-08,Female,878094,No,328025,5-10%,Long Term,Securing a comfortable retirement,Retired
+eee341c1-1afb-472c-bd21-ce803bda5c10,Joseph West,1972-04-20,Female,1917943,No,149141,>10%,Long Term,Building an emergency fund,Self-Employed
+dfeddcf1-1405-48c9-b6dc-6685f8622bc2,Brandy Fox,1969-11-20,Female,376185,No,168045,<5%,Medium Term,Paying off college debt,Retired
+e5b66d81-aee6-434a-804a-f772cfb88706,Melissa Miller,1969-05-31,Female,1230646,Yes,459843,5-10%,Long Term,Building an emergency fund,Employed
+3373cb63-7537-4f75-aab8-a092cae65ae9,Emma Moreno MD,2002-05-24,Male,1774138,Yes,308383,>10%,Medium Term,Buying a house,Self-Employed
+39c68748-daf0-4300-b480-e3027e792bdc,Joseph Miller,1972-10-08,Female,1562034,Yes,156321,5-10%,Medium Term,Paying off college debt,Unemployed
+a129e104-d6cf-47ee-b49e-14a1179a3793,Kara Rodriguez,1964-10-14,Other,476795,Yes,172671,5-10%,Medium Term,Building an emergency fund,Unemployed
+21645e8f-71b5-4668-b5fa-d6f801c37a2d,Edward Stewart MD,1970-06-13,Female,644333,Yes,21218,>10%,Long Term,Saving for children's education,Self-Employed
+be9d6b55-3ee1-4354-8194-7dc75ec56520,James Williams,2003-12-02,Female,653590,Yes,211563,>10%,Medium Term,Paying off college debt,Retired
+fe2f502f-951a-4cb7-b48c-1c786608cd33,Scott Simmons,2001-03-29,Female,1801066,No,109021,5-10%,Medium Term,Buying a house,Employed
+0935f88d-a488-4993-b32b-d440d337e003,Sally Jackson,2004-11-06,Other,809026,No,288129,>10%,Long Term,Saving for vacation,Retired
+ce072cef-ba9b-4b2c-b8f6-e0b1f559456a,Emily Daniel,2005-08-01,Female,630628,Yes,467233,5-10%,Long Term,Building an emergency fund,Retired
+30c25a95-fa13-4f37-bb62-d044be838107,Anita Garcia,1963-04-25,Female,1416631,Yes,477760,5-10%,Long Term,Securing a comfortable retirement,Self-Employed
+f537c56f-d03e-4d8d-b2dc-5f4b44377f0d,David Estes,1987-11-19,Other,1913267,No,169692,5-10%,Short Term,Saving for vacation,Retired
+cf06c012-8b0e-4bd3-a44d-5845598f8831,Kelly Gonzales,1976-07-04,Male,330054,Yes,101944,>10%,Long Term,Paying off college debt,Unemployed
+d4f6107a-dd38-4fa8-879f-027e9416b090,Kimberly Wallace,1973-01-06,Other,1623595,No,268431,<5%,Long Term,Securing a comfortable retirement,Retired
+bad80439-dded-4ada-b345-c51910c157bd,Melissa Wallace,1964-08-24,Female,1047910,No,77087,5-10%,Short Term,Buying a house,Self-Employed
+cac70009-66dd-4e63-937c-96bcd684a646,Brian Tanner,1974-09-18,Female,1338869,Yes,330875,5-10%,Short Term,Building an emergency fund,Retired
+2bd993f0-223f-49a0-962f-8f490f02c018,Aaron Daniel,2001-08-08,Other,481580,Yes,156966,>10%,Medium Term,Buying a house,Self-Employed
+eac64e6d-d0ee-4d7f-a70b-38de056aa9b9,Mary Mercado,2000-08-19,Other,1733227,No,231483,<5%,Long Term,Saving for vacation,Retired
+52f28124-6b6e-4c1c-8e9e-1c219e8f3b75,Eric Ibarra,1970-08-12,Male,1670689,No,195091,<5%,Medium Term,Buying a house,Retired
+f3bbf5cd-ce16-4af4-a29e-8a65ca5cddbd,Amber Krause,1991-02-13,Male,1028003,Yes,92863,>10%,Long Term,Saving for children's education,Unemployed
+4c13fabc-7f12-4d13-874f-8d7273cc9e4e,Donald Mays,1999-09-14,Male,1640233,No,476054,>10%,Medium Term,Buying a house,Self-Employed
+b5890816-7b37-4cda-bedf-56ad7750619d,Michael Gardner,1997-08-15,Other,1481194,Yes,156424,<5%,Long Term,Saving for vacation,Unemployed
+578049f0-935c-4852-a97e-4d82e5647a72,Tracy Bell,1983-09-25,Female,310669,Yes,174494,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+3805ef6e-c650-49de-9956-ccee3319cbd9,Bridget Wood,1966-02-17,Female,1009932,Yes,30522,<5%,Medium Term,Paying off college debt,Retired
+222120d8-757e-47e3-a6ad-d5285485e6eb,Christina Cameron,1980-09-07,Other,21679,Yes,237446,5-10%,Medium Term,Saving for vacation,Unemployed
+8d375809-0c4f-41d2-b9eb-75472f1d9e2e,Courtney Green,1977-04-22,Male,275456,No,297858,5-10%,Medium Term,Paying off college debt,Employed
+e1a161f2-3af2-4ba6-98c3-d655c680e2a5,Logan Williams,1961-10-22,Other,1563845,Yes,464851,<5%,Medium Term,Building an emergency fund,Unemployed
+72cf1235-82d2-4a6a-8e47-b5462f3b9459,Emily Williams,1972-04-23,Male,1226252,Yes,349032,5-10%,Medium Term,Paying off college debt,Retired
+cdbb2d63-528c-4019-9713-5804d8820dd7,Lauren Johnson,1984-04-13,Female,1291337,No,99365,<5%,Short Term,Saving for vacation,Retired
+39a045b2-cb33-4cec-88bf-b2d6fe2794d4,Sandra Brooks,1994-07-16,Male,1626403,No,323014,>10%,Long Term,Buying a house,Employed
+3474a5b8-34f7-4110-8b71-c260b68becb4,Daniel Contreras,1991-06-28,Male,1227042,No,282446,5-10%,Long Term,Saving for vacation,Self-Employed
+e249e6a4-26dd-4b05-88f6-02bec2ee19e8,Susan Cunningham,1978-02-24,Male,130657,No,245205,<5%,Long Term,Building an emergency fund,Retired
+642a966c-2e4d-4ec5-882a-12f7fea44ed2,Mark Case,1967-10-21,Other,1208183,Yes,371707,>10%,Short Term,Building an emergency fund,Unemployed
+89233e71-a450-4b31-a1f0-b64ef029c869,Joshua Holloway,1968-08-27,Female,473405,No,55065,<5%,Short Term,Paying off college debt,Unemployed
+7e7508d1-2f48-47e9-8969-59c64b624a7f,Mrs. Deborah Ware MD,1960-02-07,Other,1776210,No,436118,5-10%,Short Term,Investing in a business venture,Retired
+9769cd18-93cc-404c-9fa0-ce037254be21,Kelly Dixon,1975-12-12,Female,460111,No,444863,5-10%,Long Term,Saving for children's education,Employed
+bf1084fa-e65b-4ad5-8467-79f016e767c5,Sandra Armstrong,2001-11-19,Other,1624737,No,259268,5-10%,Medium Term,Investing in a business venture,Employed
+2f3a2e67-686d-41ee-8325-53bba7058097,Jon Stark,1979-10-31,Male,1179015,No,200284,5-10%,Medium Term,Paying off college debt,Unemployed
+64436840-a00a-45fe-86b1-0db3f916095f,Maureen Sanchez,1972-11-13,Other,594465,No,282151,<5%,Medium Term,Building an emergency fund,Employed
+133edf02-c7ef-49bf-8aed-5f343921baf0,Allison Nguyen,2003-06-27,Other,901518,Yes,11385,>10%,Short Term,Investing in a business venture,Employed
+51f00925-de7b-41c6-9c6b-ff3b45884fa5,Patricia Tyler,1996-12-27,Other,1084553,Yes,175915,5-10%,Medium Term,Buying a house,Retired
+ca4b0994-6748-4477-b190-a096b32c092a,Michael Juarez,1987-08-11,Other,817130,No,176849,5-10%,Medium Term,Buying a house,Self-Employed
+4c02e107-f52b-43f8-90e8-fff3cdf5bae3,Tina Hawkins,1985-04-16,Other,1109203,No,1020,<5%,Short Term,Investing in a business venture,Unemployed
+4dc929ad-3506-4f0e-9407-f77f6f1a5211,Samuel Elliott,1974-03-25,Male,446004,No,468775,<5%,Short Term,Investing in a business venture,Unemployed
+44eab888-a011-448d-9cc7-7cb014e46e68,James Newman,1995-03-14,Male,1232082,Yes,285473,5-10%,Long Term,Building an emergency fund,Employed
+e9393b04-474f-40de-a8cf-f250dbf941ff,Jeffrey Davis,2001-10-18,Other,945822,Yes,72326,5-10%,Short Term,Building an emergency fund,Retired
+473743ec-7bf4-4ffb-ba34-b616ff98a545,Tammy Shah,1989-02-07,Other,627130,No,434480,>10%,Short Term,Securing a comfortable retirement,Retired
+2d4a6276-ea10-41a2-aa5c-70ab47445406,Ashley House,1965-11-24,Female,373465,Yes,275491,5-10%,Short Term,Investing in a business venture,Self-Employed
+7284b05b-f84a-4b6e-bd3e-6847f3d06e17,Michael Erickson,2003-09-09,Male,1184866,No,451660,<5%,Short Term,Building an emergency fund,Employed
+8fbd263b-e7a3-4d8b-b699-8b91ddbe474d,Matthew Taylor,1970-12-27,Female,1853699,No,75820,5-10%,Short Term,Buying a house,Retired
+0b9b6ab6-4dda-457f-a69c-9d7d34a35487,Rachel Glass,1965-08-12,Other,799130,No,215096,<5%,Short Term,Saving for vacation,Retired
+57b4130e-9384-4eab-9812-555b3e4573c7,Deborah Garrett,1974-12-25,Other,657357,Yes,488676,5-10%,Short Term,Securing a comfortable retirement,Employed
+f140dc24-3de5-42fe-82a1-31919135890d,Ricky Gonzalez,1966-09-18,Female,44799,No,249831,5-10%,Short Term,Buying a house,Self-Employed
+061aac64-0997-4a73-8c65-a8c273ed41cc,Sean White,1987-02-05,Female,1748370,Yes,381162,>10%,Short Term,Building an emergency fund,Self-Employed
+e6075443-0dd1-4454-9082-f0a79cf124b5,Lisa Banks,1965-12-02,Other,1926232,No,444272,>10%,Short Term,Investing in a business venture,Self-Employed
+840fdd30-fe68-40e6-8e65-2843cf625e98,Timothy Obrien,1975-06-05,Female,797505,No,389047,5-10%,Medium Term,Saving for vacation,Unemployed
+cf531bec-9113-41a0-aa86-23b5b4ae6faa,Kristin Lindsey,1964-01-06,Male,331857,Yes,278235,5-10%,Medium Term,Building an emergency fund,Retired
+a2393d02-5236-4ee1-b363-488e6ebdc551,Tanya Smith,1985-03-12,Other,1744018,Yes,124431,>10%,Long Term,Buying a house,Unemployed
+902e5315-2bd8-47b0-bd84-08d85fdcb0a2,Laura Zamora,1997-04-16,Female,597905,Yes,158679,5-10%,Short Term,Paying off college debt,Employed
+98d6bc3b-771c-4ac9-bb64-c705edde10b7,Molly Baker,1984-05-12,Female,1906839,No,448242,>10%,Long Term,Buying a house,Self-Employed
+f7c5b88c-c97b-47e3-9020-77a9a07e0e9a,Michele Lawson,1998-08-31,Other,1594035,No,195705,<5%,Short Term,Investing in a business venture,Employed
+59ff67d5-f513-47ec-9875-025785e8b554,Jeffrey Schmitt,2002-02-27,Female,1941846,No,210361,5-10%,Short Term,Saving for children's education,Self-Employed
+9c8a598a-56fa-4e97-9fbf-a64e0fa548e5,Kelly Vasquez,1990-07-14,Male,1019905,No,105732,5-10%,Medium Term,Securing a comfortable retirement,Self-Employed
+23d0495c-8d73-4bdc-b0ca-ea1d1f7a7f27,Paige Lewis,1994-09-27,Male,1959151,No,145472,<5%,Long Term,Buying a house,Unemployed
+ff391c43-e94a-47da-b3f3-facce6f4d152,Dr. Krystal Young,1996-05-09,Male,1241536,No,379276,>10%,Long Term,Saving for vacation,Retired
+7da4f2fc-4cf5-4eb8-9c48-467c405af2e3,Jay Lee,1975-01-31,Other,181171,No,99907,<5%,Short Term,Paying off college debt,Retired
+4be5ab06-e007-48ed-9451-64b8dcdc1ae9,Zoe Sanchez,1969-12-03,Female,1112534,No,381847,5-10%,Medium Term,Saving for vacation,Employed
+dc2c0556-509b-43be-abea-a71f3b81c6d8,Kara Baker,1960-12-10,Male,1783873,Yes,407564,<5%,Long Term,Securing a comfortable retirement,Employed
+8d836b5d-1e17-4963-8c86-005f5204dd6d,Deborah Freeman,1988-09-23,Female,1503184,Yes,188360,<5%,Long Term,Investing in a business venture,Self-Employed
+852aa4fe-9a49-4cab-bc2b-a1ce9a13008a,Anne Quinn,1968-10-16,Female,129829,No,170602,>10%,Short Term,Building an emergency fund,Employed
+3918ad26-7af6-45f5-adeb-8476b9dbb8b9,Brandon West,1991-02-04,Other,890240,Yes,207324,5-10%,Medium Term,Saving for children's education,Employed
+51e50124-85c6-4f0a-b8e5-d27c6e3dc0ca,Katrina Molina,1988-05-04,Male,1309634,No,365215,>10%,Medium Term,Saving for vacation,Self-Employed
+763e09b1-0d63-4df6-8790-a91bfa1f899f,Jessica Carpenter,1974-08-13,Female,683002,Yes,246415,<5%,Short Term,Saving for vacation,Unemployed
+c25a74c2-c37e-44b0-a416-c73b382a69cd,Richard Hansen,1972-02-09,Other,1409578,Yes,158579,<5%,Short Term,Paying off college debt,Employed
+9f3fb485-ac55-4fa0-9a0d-501a66b8e1e5,Alexis Mcdowell,2004-06-06,Male,1191724,No,418221,<5%,Medium Term,Saving for children's education,Unemployed
+0cd1eb22-7e91-4d28-aba4-365e6ff6bdde,Michael Walker,1994-10-15,Male,684352,Yes,217853,>10%,Medium Term,Buying a house,Retired
+793de00e-73d7-4420-82cf-eb7f75c97fa1,Amanda Saunders,1983-10-12,Other,71105,Yes,36655,>10%,Long Term,Paying off college debt,Self-Employed
+228a9fc9-346a-4346-bf0f-55442fdf11ea,Phillip Weber,1970-05-22,Other,259689,No,289036,>10%,Short Term,Buying a house,Retired
+cb5da789-fdc4-4e1b-8840-d13d2d85ab9b,Denise Fox,1999-05-10,Other,444987,Yes,335991,5-10%,Medium Term,Paying off college debt,Retired
+73fd745e-54be-448e-9ee4-4df969ffd014,Jared Torres,1978-01-05,Other,286115,Yes,86612,>10%,Short Term,Saving for children's education,Retired
+e59e1d52-e9bc-4985-ad99-034655a53889,Ronald Huerta,1984-03-27,Other,303207,No,164048,5-10%,Short Term,Saving for vacation,Unemployed
+1027542b-24e1-4b66-9e47-3cb83a538902,Ryan Guerra,2001-01-27,Other,393559,No,329299,>10%,Long Term,Saving for vacation,Retired
+ee372b4f-b045-4fae-a568-a022ff5230f4,James Armstrong,1961-02-28,Female,692306,Yes,440120,>10%,Medium Term,Building an emergency fund,Employed
+ae805d95-e453-43a7-b9fa-4fb285fc78ab,Ashley Tran,1979-03-11,Male,1701210,No,436024,<5%,Short Term,Buying a house,Self-Employed
+062be4d4-3099-45e0-a2bc-536cbb5c6a7f,Tammie Aguirre,1988-06-24,Female,1856764,No,221536,>10%,Long Term,Saving for vacation,Unemployed
+08c72d63-48de-4eb1-bfc7-156f322b3932,Richard Ramirez,1967-08-22,Other,354746,No,441952,>10%,Long Term,Paying off college debt,Self-Employed
+85b188c0-3498-495c-95f9-847574676121,John Martinez,1975-08-02,Male,800549,Yes,194955,>10%,Long Term,Saving for children's education,Self-Employed
+e9fdd8db-eb12-498c-b195-aea047ebacb6,Justin Cervantes,1981-06-30,Female,149625,Yes,27103,<5%,Short Term,Paying off college debt,Unemployed
+e102a09f-0ea1-40b9-b2a5-95407af6d58b,James Santos,1976-06-10,Female,69854,No,288290,<5%,Medium Term,Paying off college debt,Self-Employed
+7caf3f68-d778-4381-930a-2fdd6d927551,Adam Lamb,1991-03-24,Other,1704941,No,18270,5-10%,Long Term,Paying off college debt,Employed
+32bff88b-7080-459c-9010-a31c00c647d4,Angela Gonzalez,1968-03-18,Male,246187,Yes,132383,<5%,Short Term,Saving for children's education,Retired
+189e44ad-3a75-4af4-a78e-086f78a4073f,Tracy Wells,1994-05-30,Male,997945,No,23764,5-10%,Medium Term,Investing in a business venture,Self-Employed
+76abec2a-719c-45b0-8dd3-59e01e6d0020,Joshua Smith,1965-06-20,Female,761918,Yes,139848,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+52e7f479-cc97-4ed9-a1b4-05c645a733c4,Brianna Barnett,1965-09-13,Other,1223369,No,425967,5-10%,Short Term,Building an emergency fund,Retired
+bcd0e690-043e-40d6-92ac-3553692bfc84,Brandon Bass,1998-03-22,Female,1858874,Yes,479476,<5%,Short Term,Investing in a business venture,Employed
+da716498-b7b2-4e87-8908-9c01402a088b,Nichole Landry,1969-11-02,Male,190157,No,13834,>10%,Long Term,Saving for children's education,Self-Employed
+eee183f0-ba7f-498b-9eb7-decff11be328,Richard Douglas,1969-07-17,Female,1661308,Yes,363243,<5%,Medium Term,Saving for vacation,Self-Employed
+81c6356b-8df2-4a6f-8fd6-a23211d1d1af,Kristen Hamilton,1961-05-28,Other,1337873,Yes,239900,<5%,Long Term,Saving for children's education,Self-Employed
+fceaa34e-f9f1-4a08-b9a2-2e893005bc75,Michelle Sherman,1977-09-10,Male,311799,Yes,231250,>10%,Medium Term,Paying off college debt,Employed
+371261e0-7268-450f-8b0b-e986566c7140,Jose Smith,1976-04-15,Male,108757,No,140060,>10%,Long Term,Buying a house,Unemployed
+9fe830b4-a044-4f72-81de-885283efecbd,Sarah Garcia,1998-03-31,Male,103978,Yes,103578,<5%,Medium Term,Saving for vacation,Self-Employed
+cf316569-2ac1-47d1-8cd6-7cbec23baab8,Thomas Richard,1999-12-26,Other,786572,Yes,466124,>10%,Long Term,Buying a house,Retired
+f023b7db-e62a-4f4e-9317-2eb4d2791956,Elizabeth Richard,1969-08-12,Female,36160,Yes,30826,<5%,Long Term,Saving for vacation,Employed
+d404e35b-8a41-4af6-b756-8840ea137281,Michael Hanson,2000-11-19,Female,1518618,Yes,422981,>10%,Long Term,Paying off college debt,Unemployed
+5e140fef-ade8-4444-bacf-cb40d7470de0,Jessica Warner,1965-09-28,Male,1947216,Yes,269897,<5%,Short Term,Buying a house,Unemployed
+b3de3ad3-ff1c-4b06-9217-fb3a36b839c5,Jacob Sutton Jr.,1991-09-02,Male,1775544,Yes,86687,<5%,Medium Term,Saving for vacation,Self-Employed
+518dff20-f7c7-4514-84c0-e32371ab97cc,Seth Garcia,2006-04-17,Female,1807271,No,21690,5-10%,Medium Term,Building an emergency fund,Retired
+5ef16b8f-3961-4777-9cbd-27599172d2d6,Harold Alexander,1979-12-27,Female,1913014,No,49265,5-10%,Short Term,Paying off college debt,Employed
+adcea704-9e02-4a8d-b097-897f701e7e7f,Mr. Anthony Morris,2002-07-25,Male,162678,Yes,135761,5-10%,Medium Term,Investing in a business venture,Unemployed
+73d61c8d-c9b7-4754-a216-e2851326c688,Krystal Hansen,1978-06-29,Female,1315664,Yes,62799,5-10%,Short Term,Investing in a business venture,Unemployed
+964242ac-7795-49e3-903d-b247f67265ee,Katherine King,1970-04-24,Other,372980,No,481703,>10%,Long Term,Building an emergency fund,Retired
+4f56c73c-7077-4274-8320-ad75b21ff1fe,Vincent Rose,1971-03-27,Female,459402,No,100571,>10%,Short Term,Buying a house,Employed
+4f3cbcbc-0169-4c64-9812-1bd38bba47fe,Maria Wilson,1985-01-03,Male,783703,No,416873,5-10%,Short Term,Investing in a business venture,Employed
+da40675d-91c3-4bd8-9ddb-eced31007037,William Briggs,1968-06-12,Male,1575136,Yes,222190,5-10%,Medium Term,Buying a house,Unemployed
+3933e2f4-3604-4b50-a501-adde205833cd,Willie Hall,1968-12-23,Female,602878,Yes,308163,5-10%,Medium Term,Saving for vacation,Unemployed
+5de77634-c02b-4faa-9ae5-2d69011c9094,Jose Johnson,1963-09-04,Female,407381,No,9198,<5%,Long Term,Building an emergency fund,Unemployed
+bd903b44-0721-45f2-85d7-0842634b71cb,Melissa Jackson,1967-12-27,Female,1025690,No,40461,>10%,Short Term,Buying a house,Unemployed
+a6e389e8-04f5-4999-adc1-0f7a36731150,Lisa Young,1960-05-13,Female,1315372,Yes,325924,5-10%,Medium Term,Investing in a business venture,Retired
+5826492d-dd71-4d17-9f75-ec8c31c8d928,Stacey Johnson,1984-11-28,Male,920299,Yes,311944,<5%,Long Term,Securing a comfortable retirement,Retired
+7a58c0ad-cf4d-4fb0-968d-7a396c17be1b,Christine Warren,1976-11-19,Other,1275752,No,446100,<5%,Long Term,Saving for children's education,Employed
+5a99afdf-e8e1-4263-a6aa-90231e3f494f,Melanie Cox,1989-04-15,Male,1416085,No,447049,<5%,Short Term,Paying off college debt,Employed
+793eecc7-4639-433e-b9f0-435d76664cb6,Thomas Klein,1987-12-19,Female,1451403,No,409982,<5%,Short Term,Securing a comfortable retirement,Self-Employed
+73d572e3-c380-4079-a44e-28f09afdf4af,Logan Burnett,1965-05-16,Other,1648119,No,490170,<5%,Medium Term,Buying a house,Self-Employed
+f0f50e62-70f1-4db0-bd6d-42ce812128c8,Christopher Murphy,1974-06-09,Other,1502194,Yes,182242,<5%,Long Term,Paying off college debt,Self-Employed
+54133b7b-9e03-4328-8ad9-78efeec3f24a,Jennifer Freeman,1993-06-22,Other,701797,No,14602,>10%,Short Term,Building an emergency fund,Unemployed
+00440b05-9a05-40b2-b301-a9d46b0ac57c,Reginald Munoz,2001-01-24,Male,1036626,No,449296,>10%,Medium Term,Paying off college debt,Retired
+6856d522-0bd6-41d1-8e30-be6dd74b063f,Elizabeth Haynes,1992-11-16,Female,1260974,No,493921,5-10%,Medium Term,Saving for vacation,Unemployed
+e7b8820f-bdad-491e-85a7-26ec691c4b8d,Jamie Hall,1974-09-30,Female,201080,No,235371,>10%,Short Term,Investing in a business venture,Retired
+9cbaf14a-c0bc-4437-b357-3e1970e2b334,Timothy Moyer,1974-01-06,Male,346818,No,166873,>10%,Long Term,Building an emergency fund,Unemployed
+312f102b-dbaf-49da-aa66-6e8802f32221,Steven Martin,1976-09-30,Male,572456,No,497966,<5%,Short Term,Saving for children's education,Self-Employed
+cc4361fd-6a37-4563-abc7-41610e4558aa,Christine Crawford,1995-03-02,Male,1060790,No,158954,<5%,Long Term,Building an emergency fund,Retired
+79aeb0b6-8a42-449c-908c-6b864fb02d04,Bradley White,1974-06-25,Other,425984,No,265679,5-10%,Long Term,Buying a house,Self-Employed
+ee64f10a-f493-47ab-a3e4-dff57654c9c0,Vanessa Wallace,1980-04-28,Other,1012395,Yes,483347,<5%,Medium Term,Saving for vacation,Retired
+2992524d-be81-471d-9d09-7dc065f90383,Rebecca Lee,1960-07-13,Female,1199557,Yes,180595,<5%,Medium Term,Buying a house,Self-Employed
+fde1b340-c7ee-4e66-ac65-4edf1bbcb6c3,Tracy Rodriguez DVM,1963-01-02,Male,1898297,Yes,198701,<5%,Medium Term,Paying off college debt,Self-Employed
+df78d5c1-348f-4093-9004-bbcc124118ab,Gwendolyn Alvarado,1985-12-08,Male,964684,No,493049,>10%,Short Term,Securing a comfortable retirement,Unemployed
+50991b46-82d3-41fd-98cc-e21201ae4001,Donald Simpson,1975-05-20,Male,378956,Yes,49399,<5%,Medium Term,Securing a comfortable retirement,Retired
+dfa62def-c522-4e42-aaae-1a75f5488520,Kristen Patel,1987-11-28,Female,202111,Yes,39180,>10%,Short Term,Securing a comfortable retirement,Retired
+c867a267-bc66-4223-9038-48cb7d2fffd3,Sharon Clarke,2000-04-09,Male,1888726,No,283807,<5%,Long Term,Building an emergency fund,Retired
+03e742a0-93db-4876-ac63-e7374594f01d,Victor Meadows,1960-10-30,Male,165402,No,446151,<5%,Medium Term,Saving for children's education,Unemployed
+2c0c89b9-715b-4b63-b7ee-685889e0ff49,Kathryn Turner,2000-10-13,Other,1755552,Yes,192220,<5%,Medium Term,Paying off college debt,Unemployed
+bcdfe07e-4b1c-48ec-9181-424eeb5a8cec,Lucas Young,1996-06-19,Male,107356,No,335268,5-10%,Medium Term,Buying a house,Self-Employed
+0fb9e455-6d28-4f68-8bda-db6fc8ef5cd9,Michael George,1986-08-30,Female,1161598,No,477349,>10%,Medium Term,Paying off college debt,Retired
+c711d741-7c0d-44cf-8ea8-2206a117bbfe,Andre Adams,1976-05-12,Other,1067745,No,399516,5-10%,Short Term,Investing in a business venture,Employed
+6b2cf269-df51-4369-932a-22dbe5b8d220,Jose Fernandez,1980-04-10,Male,1961147,No,359714,5-10%,Short Term,Building an emergency fund,Unemployed
+fed4dd3b-b213-4e2e-acc3-30c8ebd52b68,Ian Young,1998-08-18,Female,345268,Yes,110635,5-10%,Short Term,Saving for vacation,Unemployed
+d5fe70b1-d2e0-41a0-8751-75aa9c37ed89,Amber Bartlett,1994-05-27,Female,1262715,No,91676,>10%,Short Term,Paying off college debt,Employed
+63c9f925-9373-4ab5-bad2-5d3528d66c98,Evan Swanson,1976-06-14,Female,1651907,No,12138,5-10%,Medium Term,Saving for children's education,Employed
+7d74fb58-5418-4535-8f68-c55b398cf811,Paul Brown,1959-09-25,Male,1702700,No,459381,5-10%,Short Term,Investing in a business venture,Employed
+26b7aa89-ff05-4ece-8e40-0aa597e4a01a,Manuel Bryant,1970-11-23,Other,1859812,Yes,418512,5-10%,Long Term,Buying a house,Employed
+29ced1f3-e022-4403-8ce7-2b2bc201e2d5,Heather Gaines,1982-02-03,Other,736061,Yes,321475,>10%,Medium Term,Paying off college debt,Unemployed
+d930a67b-eca2-4553-8544-1e896c004d61,Jennifer Nichols,1972-10-16,Female,1843606,No,165215,<5%,Short Term,Paying off college debt,Retired
+297fbc25-c862-4aca-9506-cbc8fa9eb236,Amber Francis,1988-04-19,Other,1514122,Yes,317026,>10%,Long Term,Buying a house,Retired
+658e8bf3-7af1-4a3b-8cdd-d87ad8965541,Melissa Pollard,1991-06-25,Female,1286658,No,331559,>10%,Short Term,Saving for children's education,Self-Employed
+b3098c45-fb0c-4438-ab22-97cdef04f26d,Austin Miller,1977-02-02,Female,1909506,No,468363,<5%,Long Term,Saving for children's education,Employed
+43a90a5c-7382-44a1-9270-bca17ca55a65,David Harvey,1996-03-24,Male,650524,No,354747,>10%,Long Term,Building an emergency fund,Employed
+4dbc6814-b796-44c4-8d58-0c27d433af51,Jennifer Brown,1990-04-25,Male,973990,No,86805,<5%,Medium Term,Saving for vacation,Self-Employed
+e5d6836b-df05-46b0-a7e1-f62295d45ba9,Megan Hoover,1999-08-04,Other,1268467,Yes,495707,>10%,Short Term,Saving for children's education,Self-Employed
+039a72c6-59c2-4b83-8cc6-f34c6932c890,Michael Wilson,1962-07-30,Other,1159600,No,435764,<5%,Medium Term,Saving for vacation,Unemployed
+9bd49fc3-a7e1-4fbe-a64f-1089a4ba9987,Dawn Tran,1968-08-06,Male,891499,Yes,147179,>10%,Medium Term,Building an emergency fund,Employed
+6db67e7b-847c-472b-bbb3-5ae4d1eafcac,Christopher Rose,1982-12-15,Female,344749,Yes,300950,>10%,Long Term,Saving for children's education,Self-Employed
+7a7942b4-53cb-4273-8339-33b2456e25a2,Angela Jones,1990-04-14,Male,1034582,Yes,253844,5-10%,Short Term,Investing in a business venture,Retired
+46bbfc10-1d63-4acc-92e8-3244b6bf9441,Ronald Medina,1965-07-01,Other,1554985,No,17227,5-10%,Short Term,Paying off college debt,Unemployed
+4cbfeb0b-4231-451d-a26b-458ea8457926,Mary Ford,1979-08-12,Male,266981,Yes,242217,<5%,Short Term,Securing a comfortable retirement,Retired
+c2a5e3cf-5861-474b-b121-b97fc9eafec9,Keith Benson,2004-04-27,Other,1361878,No,335836,>10%,Short Term,Building an emergency fund,Employed
+ed3bf2d5-5999-496f-9a30-6c8d61f8062b,Gregory Gray,1962-07-18,Female,1292452,Yes,89334,>10%,Long Term,Paying off college debt,Unemployed
+326436a2-4191-4747-9e4a-16b2f7bf50e8,Judith Gonzalez,1968-05-15,Other,1272705,No,26689,<5%,Short Term,Investing in a business venture,Employed
+2aa9d933-8eb4-4549-a770-e19b137efe69,Cassandra Rhodes,1961-07-27,Male,1500884,Yes,450549,5-10%,Medium Term,Securing a comfortable retirement,Employed
+343c6795-0d01-4a80-b9d1-5ddceac4976e,Rachel Henderson,1974-03-21,Male,948170,Yes,108412,5-10%,Long Term,Saving for children's education,Employed
+74c65c89-949e-4937-bc86-c6ec4d71d307,Kimberly Bowman,1998-03-12,Male,557942,Yes,453898,>10%,Medium Term,Saving for vacation,Retired
+765b367e-8d47-461b-9717-04fd25e4bb4f,Stephen Lambert,1965-11-15,Other,1669203,Yes,90829,>10%,Long Term,Saving for vacation,Retired
+d7866597-16e4-4c5d-be4f-07a819c7fb1e,Lisa Smith,2006-01-01,Female,482407,Yes,15822,5-10%,Medium Term,Securing a comfortable retirement,Retired
+a03c0da7-7968-4214-8752-226a2520cf79,Stephanie Stevens,1996-12-18,Female,606221,No,203644,<5%,Short Term,Buying a house,Retired
+27cbaed5-d85e-4d59-9fdd-4e6f31dff8ce,Laura Johnson,1984-03-11,Female,1463521,Yes,43353,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+7d94f52a-2a06-441d-8e3c-64c130757e54,Ashley Cunningham,1966-06-01,Male,1746708,Yes,388223,<5%,Medium Term,Buying a house,Retired
+a96b1613-1419-4673-84dc-ab846b7d7526,Tammy Wood,1964-12-18,Male,465498,Yes,401224,<5%,Short Term,Buying a house,Employed
+dd02a2ad-b0df-4ad0-b219-144e3fa88660,Melissa Vang,1973-01-22,Female,1445282,No,293887,<5%,Short Term,Securing a comfortable retirement,Self-Employed
+669c01dd-6258-4e55-be00-ee599e1b7602,Nicole Douglas MD,1966-12-24,Female,1042153,Yes,407951,5-10%,Short Term,Saving for vacation,Retired
+c88bb334-fd7f-4296-9184-31d32f65e51f,April Collins,1977-11-09,Male,943743,Yes,24089,5-10%,Short Term,Building an emergency fund,Retired
+37bc5943-2321-4ae0-b6ca-618e573b75b0,Gina Barber,1967-10-03,Female,1612306,No,453607,5-10%,Long Term,Saving for children's education,Self-Employed
+c3456b9f-d874-4123-a15e-fccc18f64060,Christie Moore,1993-02-28,Other,1271249,No,331821,<5%,Long Term,Saving for vacation,Self-Employed
+80f42208-9a8c-4137-ab3b-b20f4c3c4cc1,Allen Wilson,2005-09-06,Other,934964,Yes,468520,5-10%,Long Term,Buying a house,Employed
+0d866fce-10f2-4765-860f-24f4ddc16b16,Rachel Martinez,1976-09-19,Male,1395502,No,261807,<5%,Long Term,Building an emergency fund,Employed
+8c25e7b1-ed55-47e8-b2df-aa35dc418913,Karen Butler,1995-04-23,Male,54836,Yes,213551,<5%,Medium Term,Paying off college debt,Employed
+a84625f3-01f6-45da-aa30-8f6d0384c184,Gina Bennett,2004-03-05,Other,1253145,Yes,194967,>10%,Long Term,Saving for vacation,Self-Employed
+e943bdc6-ee04-4c88-8808-dc43458cdf93,Susan Rice,1960-03-22,Male,1136255,Yes,375486,<5%,Medium Term,Securing a comfortable retirement,Retired
+a573c747-e51e-4835-aef8-569050d3a57b,Keith Martin,1968-04-24,Other,36422,No,86339,>10%,Long Term,Securing a comfortable retirement,Employed
+3c31a0d0-3810-4e72-b425-d73efac398e8,Robin Morrow,1999-09-02,Female,1295542,Yes,365711,>10%,Medium Term,Saving for vacation,Employed
+22b7cb40-1cc7-4296-8eae-57c5a3347a56,Betty Chavez,1990-04-04,Female,796181,No,371838,5-10%,Medium Term,Securing a comfortable retirement,Employed
+d1b30b02-e86b-42d5-beaa-35776c72af89,Robert Williams,2003-11-06,Female,1253207,Yes,164410,5-10%,Short Term,Buying a house,Employed
+6b83d696-523e-4349-9fd4-b8dcf30573c4,Michael Griffin,1959-07-27,Other,1261263,Yes,182592,>10%,Medium Term,Securing a comfortable retirement,Self-Employed
+67307c80-9b88-4b72-ace2-8673d578b1e4,Caroline Williams,1986-05-08,Other,677481,No,85082,5-10%,Medium Term,Saving for children's education,Retired
+8ed437bd-1208-4bcb-ab4a-ce038b8d391a,Travis Davis,1983-05-03,Male,1740683,No,212835,>10%,Long Term,Saving for vacation,Self-Employed
+e10fdf3c-bea4-4a5d-9ac2-f743c0022918,Robin Olsen,1975-07-23,Male,1654895,No,273400,5-10%,Long Term,Saving for children's education,Unemployed
+4034d380-b784-4e06-b388-c816c5a19a79,Stephen Booker,1994-04-27,Other,992987,Yes,132330,>10%,Medium Term,Building an emergency fund,Employed
+94bc2fbd-d2f4-4d2c-8732-71d40a3d894d,Lacey Figueroa,1976-07-04,Other,719918,Yes,327548,5-10%,Short Term,Securing a comfortable retirement,Retired
+e156afd4-6996-4799-99f5-6098f563f86e,Stephanie Wyatt,1979-04-06,Other,745567,Yes,143508,>10%,Medium Term,Paying off college debt,Unemployed
+9468e726-f4ea-4383-a7dc-1150727033c6,Deborah Garcia,1997-01-17,Male,1890176,No,326310,5-10%,Medium Term,Buying a house,Employed
+e802f080-3ea0-4d6b-be47-6e63ade760f3,Sheri Robinson,2004-09-09,Female,291300,No,327726,5-10%,Long Term,Securing a comfortable retirement,Self-Employed
+73f41be7-eb32-45d8-97f5-5c71bd2c2a6d,Caleb Simon,1971-07-26,Other,178596,Yes,283930,<5%,Short Term,Buying a house,Unemployed
+e444099f-b025-479c-98a8-b6ab5471e130,Amber Brooks,1968-09-01,Male,1126486,No,477548,<5%,Medium Term,Buying a house,Unemployed
+fdccbe36-30f8-44b9-8067-3d62d1302be5,Rodney Aguilar,1993-05-04,Female,1502049,Yes,360594,>10%,Long Term,Investing in a business venture,Self-Employed
+fa77567b-7658-4b01-801f-d6e75208b2be,Mary White,1993-12-29,Other,1897697,No,480012,5-10%,Short Term,Buying a house,Self-Employed
+33d98ea3-aec0-43ec-a624-35cbd36050b8,Jessica Stanton,1960-12-11,Female,309273,No,434054,5-10%,Long Term,Investing in a business venture,Employed
+8c83e5c3-0bdd-49dd-a244-bc0f30d52430,Holly Berry,1991-04-07,Male,518454,No,433826,5-10%,Short Term,Securing a comfortable retirement,Retired
+13d9b14b-7d08-49e4-958e-a2e8e0c6f522,Kaitlyn Henry,2003-11-05,Other,1518837,Yes,90442,5-10%,Short Term,Saving for vacation,Self-Employed
+59746fa3-cc73-4559-9240-46db53c59e60,Charlotte Davis,1984-01-08,Other,1343603,Yes,103086,>10%,Medium Term,Building an emergency fund,Unemployed
+7e2f1a03-597c-466e-9015-f0e28fb482d9,Joel Odonnell,1985-03-30,Female,898620,Yes,417670,<5%,Long Term,Building an emergency fund,Employed
+99b8bced-db3a-4e8a-8223-59f0159f2b2a,Alexander Jones,1976-01-04,Other,1917580,Yes,30088,<5%,Short Term,Securing a comfortable retirement,Unemployed
+095975ff-9ba0-4ee3-a0c9-b42216724238,Jared Frank,1975-06-10,Other,1221583,Yes,34831,>10%,Medium Term,Buying a house,Unemployed
+292fa547-f667-4968-b6ae-aff5464d815d,Gloria Hill,1996-03-12,Male,1408619,No,38178,5-10%,Short Term,Paying off college debt,Self-Employed
+a5424d1c-ade0-4926-b017-b440b9f1a75d,Julie Rhodes,1970-06-30,Other,1508314,No,22186,5-10%,Medium Term,Buying a house,Retired
+2a22422a-7c86-4d8b-b52d-e3b1d7233936,Leslie Cox,1980-07-29,Other,1834277,Yes,82548,5-10%,Medium Term,Securing a comfortable retirement,Employed
+4b074af7-1306-4135-bd89-173c4aa3473b,Michael Sanchez,1985-11-10,Male,57110,No,474643,5-10%,Long Term,Investing in a business venture,Unemployed
+03f06289-571c-41d6-b782-c3b2050f9105,James Hubbard,1991-07-21,Male,1214273,Yes,184610,>10%,Long Term,Saving for vacation,Unemployed
+c1bb478c-581a-48a1-8c0d-4cf736e40163,Mary Obrien,2002-05-27,Other,895098,Yes,471708,>10%,Medium Term,Investing in a business venture,Employed
+3ee051b0-180b-40ca-944e-1182686f7a91,Heather Knox,1996-12-30,Other,524926,No,499865,<5%,Short Term,Paying off college debt,Self-Employed
+8930277a-ffa1-4aab-a467-52797f5e1433,Michael Dixon,1989-03-22,Other,156005,No,434271,5-10%,Short Term,Paying off college debt,Retired
+e9b4a3bf-7e9e-44d9-b093-da385b66a535,Terry Davis,1984-08-08,Other,1551827,Yes,194752,5-10%,Long Term,Saving for children's education,Retired
+c86c0c9b-e47b-4c74-b8cf-42ae436c4cf2,Mark Carr,1998-09-08,Other,1799016,No,393083,<5%,Medium Term,Investing in a business venture,Employed
+41cd65b3-480a-4aa0-ac99-e53a8bb96dab,Joanna Warren,1993-10-24,Female,268837,No,498956,>10%,Long Term,Paying off college debt,Retired
+907e8c6c-28ff-4f9a-9e38-715f20c30179,Jessica Garcia,1964-05-27,Male,1466472,No,242061,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+84d67167-ab8e-4247-9da4-e45f63319b1b,Stacey Lee,1983-03-30,Other,170948,No,27883,5-10%,Short Term,Buying a house,Employed
+557ff21f-20f8-4b22-aed7-be13aa3c141d,Reginald Brown,1964-03-09,Female,1467719,No,57813,>10%,Long Term,Buying a house,Employed
+ee0404d9-7ce7-45fe-9d6c-874c81f6b405,David Coleman,1980-06-09,Other,642675,No,8652,5-10%,Short Term,Building an emergency fund,Employed
+66cad607-3aa3-4ea1-aaa4-977c5e578a5f,Grace Jones,1966-11-29,Female,1703748,No,192209,<5%,Short Term,Securing a comfortable retirement,Unemployed
+6ed13560-4c62-4b10-9067-bdad50d86b7d,Brooke Palmer,1996-09-01,Male,1471064,Yes,210328,>10%,Short Term,Saving for vacation,Unemployed
+8a6c4078-22b4-4cab-bcf5-94c399d93565,Lindsey Moreno MD,1995-05-01,Female,1863035,No,382596,5-10%,Long Term,Investing in a business venture,Unemployed
+9fc483e3-ac54-4cfc-b621-17f2575fa11a,Ashlee Merritt,1960-04-25,Female,909494,No,468401,5-10%,Short Term,Saving for vacation,Unemployed
+d6e18de4-731b-4b0d-9e1e-f83ef23980e6,Olivia Novak,2002-02-02,Other,1065174,Yes,118460,5-10%,Short Term,Saving for vacation,Retired
+d8763f85-00b4-4e2f-abd6-63e832eff22f,Jason Duncan DDS,1972-07-23,Other,1535063,Yes,132726,5-10%,Medium Term,Saving for vacation,Self-Employed
+fb7a21c7-f48b-46e6-bcc0-9ca3ff1eae5b,Beth Carlson MD,1981-05-26,Male,386462,Yes,161811,<5%,Medium Term,Building an emergency fund,Self-Employed
+4547e5dc-41d7-435c-b945-540e80affb37,Stephen Myers,1972-05-17,Other,1604511,No,458324,5-10%,Short Term,Paying off college debt,Employed
+221260b4-d928-459b-a655-3d5c1ffa66fc,Nathan Jarvis,1997-09-18,Male,936044,Yes,431550,>10%,Medium Term,Paying off college debt,Self-Employed
+28efec41-47c0-43ec-9445-8eae7d01c64f,Crystal Reynolds,1973-10-02,Female,1093344,Yes,196258,5-10%,Medium Term,Paying off college debt,Retired
+8bd3ac7a-6947-4757-aca0-06717cec37a9,Levi Gonzalez,1961-11-08,Other,1689477,Yes,268976,<5%,Medium Term,Saving for vacation,Retired
+670af9d4-3071-42a3-8d00-8d54d7930081,Nancy Rodriguez,2005-09-10,Female,1678625,No,52372,5-10%,Short Term,Paying off college debt,Unemployed
+c417215b-5a8e-4d7c-abfe-5c272578ed58,Ashley Adams,1983-05-01,Female,205942,Yes,481118,<5%,Medium Term,Securing a comfortable retirement,Retired
+db8fe626-1680-4a3d-967c-635d8ba9b297,Stephanie Eaton,1961-02-27,Female,1996321,Yes,291409,5-10%,Medium Term,Investing in a business venture,Employed
+91c79026-7e54-4029-b70d-1703ad537fc5,John Grant,1974-12-04,Female,1689730,No,492265,<5%,Long Term,Paying off college debt,Unemployed
+5db2f59c-fac5-4d26-907a-65c0536c1231,Daniel Navarro,1995-08-14,Male,1803252,No,186628,<5%,Short Term,Investing in a business venture,Retired
+742961e6-dae3-4a73-8fc5-8cdc2cbbfb49,Tonya Moore,1969-09-02,Male,747409,Yes,400164,<5%,Medium Term,Paying off college debt,Employed
+038d3e0a-1580-4f20-b50c-8cf79f8471e5,Robert Ray,1994-09-11,Male,362547,Yes,293761,<5%,Short Term,Buying a house,Unemployed
+234f8690-488c-446a-b537-6d9b093bb742,Patrick Brady,1998-02-08,Female,1799607,Yes,384837,5-10%,Long Term,Saving for children's education,Employed
+08724add-eae0-4982-a7eb-d90deee28072,Richard Snow,1961-08-02,Other,1997539,Yes,335440,5-10%,Short Term,Paying off college debt,Employed
+293f1121-21af-4e2e-b416-064d4df40f5c,Russell Warren,1982-09-03,Male,1388820,Yes,199306,5-10%,Long Term,Buying a house,Retired
+d187e726-d755-49a9-be24-7698bf8e1ab2,John Potts,1998-11-25,Male,41453,No,212200,<5%,Medium Term,Building an emergency fund,Self-Employed
+42bd8e41-5fb3-4f16-993c-abfd40350bab,Michael Bush,1986-03-08,Female,760765,Yes,439316,5-10%,Short Term,Saving for children's education,Self-Employed
+f3ffbf10-ca7a-4a5b-bfae-1e196f33e384,Christina Rodriguez,1977-10-02,Male,1534520,Yes,317583,>10%,Medium Term,Building an emergency fund,Self-Employed
+cdc13dc6-f62f-49e3-91ec-d0cc3e654014,Jeffrey Moran,1968-04-04,Other,394796,Yes,491146,5-10%,Medium Term,Saving for vacation,Unemployed
+8e8951fa-f2fb-435a-9227-6dd13f37478b,Justin Beasley,1984-02-02,Male,1363843,Yes,409835,>10%,Long Term,Saving for vacation,Unemployed
+32d4e409-d18a-4aa4-af2a-fc11fa768588,Janet Wright,1963-01-09,Female,1711340,No,261059,>10%,Long Term,Saving for children's education,Unemployed
+fa4890c0-35ee-4bcd-90e9-0e68860c20e3,Joe Kelly,1979-12-24,Male,1188831,Yes,484389,5-10%,Medium Term,Securing a comfortable retirement,Unemployed
+e957d035-6fe6-473c-ae0e-037feb48b05d,Jordan Ramirez,1969-12-07,Male,1228807,Yes,297690,5-10%,Medium Term,Saving for vacation,Unemployed
+2c32b362-33b2-4dea-b690-296e43a5287e,David Barton,1967-09-19,Other,612169,Yes,71187,5-10%,Medium Term,Building an emergency fund,Self-Employed
+b628df0f-5287-447a-b683-7ee950e61c20,Colton Fox,1981-06-03,Female,1210336,Yes,297605,<5%,Medium Term,Securing a comfortable retirement,Retired
+4a14f37b-3bd6-4681-8860-467d5f3ece58,Thomas Griffith,1993-07-28,Other,1764963,No,8932,>10%,Long Term,Paying off college debt,Self-Employed
+20a9242e-47ed-4367-bed8-079a2d31c4c8,Jonathon Lopez,1980-03-04,Male,1213114,Yes,14856,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+b6820ede-c08c-4506-a9cb-edde0172945f,Yvonne Brown,1971-06-20,Other,1018333,No,110267,5-10%,Short Term,Building an emergency fund,Employed
+58ca1743-0c09-4449-b00b-5726acae2708,Allison Gallegos,1974-07-20,Female,1912544,Yes,59026,5-10%,Medium Term,Saving for children's education,Retired
+d246eb28-6f06-4868-8053-1a5754004a32,Virginia Bennett,1964-02-06,Female,474890,Yes,215788,>10%,Medium Term,Buying a house,Unemployed
+edc05a30-7872-4fa4-a77b-80d47a07fd49,Laura Taylor MD,1967-03-24,Other,1811586,Yes,255448,<5%,Medium Term,Paying off college debt,Employed
+04bcd07b-0975-4281-9a78-050a3f82e5a2,Courtney Sanchez,2004-06-09,Female,282434,Yes,145654,>10%,Long Term,Investing in a business venture,Retired
+652f9543-87d5-4f9b-803f-be547553eaa4,Robert Middleton,1974-10-06,Other,1333843,No,157842,5-10%,Medium Term,Securing a comfortable retirement,Employed
+ff3395a8-4ca0-4812-a0f6-97cae2ba7a64,Stephanie Tucker,1968-07-07,Other,1353778,Yes,167196,5-10%,Short Term,Saving for children's education,Self-Employed
+229d7fba-4240-4366-b5d2-6ea5530dd5f2,John Allen,1984-07-11,Female,1336533,Yes,268606,5-10%,Medium Term,Saving for children's education,Self-Employed
+a6ec2b89-957a-4920-ad0b-50ca8aff4d8b,Francisco Nelson,1978-02-13,Male,1546821,No,474849,<5%,Short Term,Securing a comfortable retirement,Retired
+00b8ff87-288b-4253-ad79-7d921fae7362,Michelle Morales,2002-04-05,Male,976996,Yes,13283,>10%,Short Term,Securing a comfortable retirement,Unemployed
+d8ec393e-e0aa-471f-af2b-a20b1d66397e,Robert Smith,1988-10-17,Female,161920,No,367236,5-10%,Long Term,Paying off college debt,Unemployed
+7ce90384-86ac-45e6-b87a-e629a11e6fb0,Brittany Johnson,1963-03-07,Other,1706920,Yes,448468,5-10%,Short Term,Securing a comfortable retirement,Self-Employed
+5ec5db5e-5b10-44ae-8d10-299864c31be8,Scott Evans,1963-04-05,Female,1118309,No,125308,<5%,Short Term,Investing in a business venture,Employed
+95502c0b-4d8a-40f1-98a3-15e96251e267,Toni Adams,1979-02-25,Other,1902079,No,395922,<5%,Short Term,Paying off college debt,Self-Employed
+c37a3a7b-5b73-432e-98c6-ae0b2eae504d,Suzanne Moore,2000-10-25,Male,589026,Yes,91281,<5%,Short Term,Securing a comfortable retirement,Unemployed
+7259fc16-85a2-4e01-a2f5-366ee9715901,Frederick Cruz,1971-09-14,Female,927841,No,100619,5-10%,Long Term,Buying a house,Employed
+c7801503-eb2f-4c26-b7fc-88103b640118,Jamie Morris,1999-06-02,Female,856701,No,42899,5-10%,Short Term,Saving for children's education,Self-Employed
+c6d1fafd-6e69-44dc-a3e5-383f98b31b7d,Lisa Buck,1989-02-08,Male,734116,No,23569,<5%,Medium Term,Buying a house,Retired
+50431a02-0516-4f39-a4fa-b9f0e98faf33,Natasha Cohen,2004-10-28,Male,1655635,No,40138,>10%,Long Term,Saving for vacation,Unemployed
+501e250f-0f45-4a1c-9da5-6fdaedfc6efa,Mary Bradley,1997-05-26,Male,1355827,No,139856,<5%,Medium Term,Buying a house,Retired
+369b2a31-63cb-420a-9013-0dad3960fdf1,Stephanie Meza,2001-07-24,Male,1816091,No,3291,5-10%,Short Term,Saving for children's education,Employed
+1b047567-6cf1-4781-a2d7-91d7bf251f75,Julie Bishop,2003-08-17,Male,74538,No,489227,<5%,Medium Term,Paying off college debt,Employed
+90b4b20a-ffa1-4257-84fe-e53efd2aeec9,Betty Dyer,1998-02-28,Female,1025510,Yes,91185,>10%,Medium Term,Saving for children's education,Self-Employed
+6ccc9306-1829-49d8-9c1e-7f5004c93eaf,Natasha Taylor,1990-04-30,Other,364472,Yes,349538,5-10%,Long Term,Securing a comfortable retirement,Self-Employed
+f2a1cecf-0c99-4381-a44e-3cc1a62177a4,Mrs. Jessica Gill DDS,1987-09-19,Male,558524,Yes,430595,>10%,Medium Term,Investing in a business venture,Self-Employed
+590313d5-5490-4b09-a53e-1274051d5271,Jennifer Benjamin,2001-09-26,Other,984087,No,165580,>10%,Long Term,Investing in a business venture,Unemployed
+631ced4d-5e88-4773-94d6-9f3fc9e709e1,Stephanie Ferguson,2006-02-08,Male,441238,No,78603,5-10%,Medium Term,Investing in a business venture,Self-Employed
+a8c2824c-7746-4aba-b505-9970ac962717,Tyrone Meyer,2000-12-25,Male,894809,No,345193,5-10%,Short Term,Saving for children's education,Retired
+4505c8a1-57ee-48d8-adeb-02c6cbccd9cb,Erica Beck,1967-03-21,Female,220401,Yes,286801,<5%,Medium Term,Investing in a business venture,Retired
+4919dcb0-8bb9-4c11-be9b-e6eb9f3ced09,William Silva,1965-03-26,Female,912762,No,271076,>10%,Short Term,Buying a house,Self-Employed
+7e7454bf-1a16-4815-a6be-5ba59f9473b9,Elizabeth Sims,1971-12-08,Female,821115,Yes,68218,<5%,Short Term,Investing in a business venture,Unemployed
+1c0d3717-8104-4098-b827-8177f6a3ca36,Michelle Case,1961-06-07,Male,523428,Yes,246108,>10%,Long Term,Building an emergency fund,Unemployed
+9ce089a3-88c4-401d-8968-3b054506e6eb,Jennifer Williams,2002-07-26,Female,1749433,Yes,435464,5-10%,Long Term,Securing a comfortable retirement,Employed
+e0eb281d-0e3e-413a-b921-9e8c37d375a4,Ryan Daniel II,1964-05-25,Female,1971714,Yes,327048,5-10%,Long Term,Saving for vacation,Unemployed
+f8594bca-f402-4977-9dbe-da8dedee7c72,Ashley Miller,1960-12-12,Male,1001097,No,452148,<5%,Medium Term,Investing in a business venture,Employed
+6df4fe7e-3085-45fd-8c95-5fd6fc3579bf,Douglas Reed,1986-05-24,Male,1278797,Yes,93715,5-10%,Medium Term,Saving for children's education,Unemployed
+99579a94-4056-40bd-b953-ff96784682a2,Becky Robertson,1968-03-13,Other,621260,Yes,378165,>10%,Short Term,Securing a comfortable retirement,Unemployed
+f012bf04-90f8-4197-a248-1406bc316350,Ronald Manning,1961-10-28,Other,540097,No,246435,>10%,Short Term,Buying a house,Retired
+41b29452-2f02-4703-a874-4b7b8195bdfd,Carla Melton,1965-09-25,Other,963115,No,182508,>10%,Long Term,Buying a house,Unemployed
+a2b18273-d6e8-45e7-9639-1bcc03ebcbb3,Dr. Joseph Long II,1966-07-02,Other,98990,Yes,174688,5-10%,Short Term,Saving for vacation,Unemployed
+39cbdd6b-5ca9-44db-a01f-9e5d34beba8e,Kelly Donovan,1968-04-27,Female,650873,Yes,155679,>10%,Long Term,Saving for children's education,Unemployed
+330348a2-a81c-46ec-848d-9f859ff612d6,Elizabeth Walters,2005-11-30,Other,866552,No,377477,<5%,Short Term,Paying off college debt,Self-Employed
+01b2a361-9e9b-4534-8ea6-17b7e0a182ff,Richard Marshall,2005-01-23,Other,1340553,No,391455,>10%,Short Term,Paying off college debt,Retired
+436cc8b8-2b59-42d0-9c86-50874fabefa8,Patrick Fitzgerald,1969-04-30,Other,1539061,Yes,111940,>10%,Short Term,Buying a house,Retired
+cfc3e9fe-fd29-4743-8164-55d9e07479a3,Madison Greene,1982-09-12,Male,185604,No,43559,5-10%,Short Term,Buying a house,Retired
+8d875f7e-2ea9-488f-b8e1-90798962ef80,Paul Christian,1981-01-17,Male,936984,Yes,407314,>10%,Short Term,Saving for children's education,Unemployed
+b5161a75-752e-40e7-9b44-bfbbbe0f3478,Rodney Scott,1994-11-05,Female,1298316,Yes,365311,5-10%,Long Term,Investing in a business venture,Self-Employed
+b9d768db-0f0d-48be-a136-1c8619068320,Justin Brown,1990-08-10,Female,1746751,No,465823,>10%,Short Term,Building an emergency fund,Employed
+2ba08497-933b-42f1-96fc-e7122f5177ea,Mr. Jeffrey Franklin,1966-02-28,Male,236833,No,175301,>10%,Long Term,Paying off college debt,Self-Employed
+ed20171c-9af3-4476-8c54-770c212cc7b6,Pamela Mccarthy,1984-11-21,Female,712335,Yes,375285,5-10%,Medium Term,Paying off college debt,Self-Employed
+9dde4ea5-8c10-494c-86f2-22da9ea4723f,Erin Smith,1987-03-03,Female,34415,Yes,489814,>10%,Long Term,Saving for children's education,Retired
+bbc9a9ab-a184-4e32-ac58-e36a093b51b3,Jennifer Mcdonald DDS,1974-08-29,Female,1444156,Yes,40808,<5%,Medium Term,Buying a house,Retired
+05e6ca48-ee92-4047-bdb1-975d762c22b5,Lisa White,1960-05-16,Female,1302860,Yes,38061,<5%,Long Term,Securing a comfortable retirement,Employed
+3640fde7-5891-4e91-93d1-c192f508a59f,Steven Marshall,1975-11-23,Male,269861,Yes,170523,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+ba6c282b-e1b0-4b94-bdee-2b7079a6c391,Dr. Natasha Walker,2005-04-04,Female,1261614,No,105846,>10%,Medium Term,Investing in a business venture,Self-Employed
+aab26c0f-2110-4135-91ef-cdbebf412d91,Alyssa Palmer,2003-01-09,Other,1256660,Yes,95675,>10%,Short Term,Building an emergency fund,Unemployed
+c8aff63c-3bf4-43e9-8aea-da1f50165157,Edwin Rosales,1992-03-09,Female,1141339,No,241343,>10%,Long Term,Securing a comfortable retirement,Employed
+27038141-c507-4324-abba-8021eb2a3d6b,Timothy Richardson,1988-09-13,Other,1126693,No,246299,5-10%,Long Term,Paying off college debt,Employed
+c884be66-95cc-4309-ad8d-bf7bfa4acfb2,Anthony Hudson,1996-11-10,Female,460505,No,387501,5-10%,Medium Term,Investing in a business venture,Employed
+d28b721d-ad20-4264-bad4-0b55a4c2c7cd,Brandon Perez,1999-05-17,Other,1817879,Yes,397892,>10%,Short Term,Building an emergency fund,Self-Employed
+88ed0c22-a45a-4309-bdfb-0045857296a9,Joshua Barker,1997-05-19,Male,852582,No,83732,<5%,Medium Term,Saving for children's education,Employed
+06709cf5-c2cf-41bc-9449-fb46a2d2e8aa,Kevin Smith,1981-03-11,Male,1124441,Yes,447076,<5%,Short Term,Building an emergency fund,Employed
+33cea11a-7d04-437a-9b99-b4e14845ee58,Tiffany Cabrera,1994-01-08,Other,143026,No,163755,<5%,Medium Term,Buying a house,Employed
+161113f6-93e7-4bd9-8656-2d6bb8e4a48e,Taylor Cooper,1977-01-12,Other,582977,Yes,335449,>10%,Long Term,Saving for children's education,Unemployed
+a510c3e2-1a66-4510-a47f-0cf1fee0c9b0,Tracey Rodriguez,1986-07-31,Male,1431648,No,78462,5-10%,Medium Term,Saving for children's education,Employed
+898355c6-14a4-4a97-a396-3ba0af4fe8f1,William Clements,1975-10-24,Other,49797,No,495087,>10%,Medium Term,Buying a house,Retired
+34b2e7e6-17c0-4b94-8d01-97d16eb9b4b6,George Freeman,1978-10-04,Female,1011346,Yes,468921,>10%,Short Term,Building an emergency fund,Unemployed
+9216e2a0-5223-4751-80cc-e8472a6c63b5,Benjamin Stanley,1984-06-05,Male,864621,No,208964,5-10%,Short Term,Securing a comfortable retirement,Employed
+37545d33-d9e1-427b-9240-d7b1f57521f6,Susan Cordova,1966-12-31,Male,138656,Yes,303608,>10%,Medium Term,Buying a house,Employed
+1a72667e-aedb-42e2-92d6-3664b7766a95,Patrick Petersen,2004-06-28,Male,1203125,No,474479,>10%,Medium Term,Buying a house,Self-Employed
+d44a4da1-c3e9-4638-b74d-c9e798f751a3,Jennifer Martinez,1973-07-08,Female,1111388,No,59640,>10%,Short Term,Buying a house,Employed
+f74bd7eb-a86e-4aed-8e9f-3a723e91aa1b,Jennifer Maldonado,1967-04-16,Male,1244327,Yes,253074,<5%,Medium Term,Investing in a business venture,Employed
+39e4ea04-9df8-4319-8336-1deab9b26a98,Brenda Smith,1994-01-08,Female,137425,Yes,119478,5-10%,Short Term,Saving for vacation,Self-Employed
+313d155b-3930-4182-a799-ceb815dcd101,Victor Romero,1964-01-30,Other,1773095,No,265889,5-10%,Medium Term,Building an emergency fund,Unemployed
+f8b4b7f6-11d9-4c89-9560-65e400dba494,Mariah Chapman DDS,1962-03-24,Female,1769776,Yes,39767,<5%,Medium Term,Investing in a business venture,Employed
+d492730b-54d4-4ed3-9ad5-4621f6e6a1db,Justin Gutierrez,2002-10-29,Male,639284,No,474680,<5%,Medium Term,Investing in a business venture,Retired
+c5206f5e-14be-412c-9a58-39ff7e84cc02,Jeffrey Davis,1963-01-24,Male,1636780,Yes,488369,<5%,Short Term,Securing a comfortable retirement,Retired
+3dd329a6-11fb-45f6-bb5b-a53aa7e9334d,Melissa Bailey,1995-03-17,Female,986598,No,453787,<5%,Long Term,Saving for vacation,Retired
+b65fa273-11f5-4bfc-9201-636bde3b0528,Zachary Lucero,1992-11-24,Female,1891316,No,275934,<5%,Short Term,Saving for vacation,Retired
+237280f2-45db-4b0b-bb4d-d8eff676c0f5,Caleb Woods,1960-09-07,Female,1770118,Yes,333580,<5%,Long Term,Securing a comfortable retirement,Unemployed
+edec4fdf-1f6b-4531-bbf4-44c36c5b7173,Caitlin Lynch MD,2003-09-25,Male,1347040,No,277244,>10%,Short Term,Securing a comfortable retirement,Employed
+c569aed7-ce20-4afa-b134-cff4f6f9ebad,David Oliver,2001-06-24,Other,477675,Yes,162328,5-10%,Long Term,Saving for children's education,Self-Employed
+212f68ab-dd45-48fc-8b15-6ab2ce260202,Michelle Soto,1996-02-25,Female,1154602,Yes,212187,>10%,Medium Term,Buying a house,Employed
+f30e9996-b568-4e9b-b72d-cb9723f8f594,Hayden Jefferson,1994-01-04,Female,1374595,Yes,367961,5-10%,Medium Term,Saving for children's education,Self-Employed
+9f9edeba-4e02-4d78-be15-a4d7ea2ad1ac,Theresa Sawyer,1979-02-13,Female,1376847,Yes,484286,5-10%,Medium Term,Investing in a business venture,Unemployed
+4ed2f4ff-6902-414e-8983-aaf8a996e302,Whitney Wright,1996-11-12,Male,120788,No,90871,<5%,Medium Term,Saving for children's education,Self-Employed
+dfb7e9f2-f2db-4af6-84b4-8188cd15d1bf,Emily Pham,1978-02-07,Female,630301,Yes,77773,>10%,Short Term,Investing in a business venture,Self-Employed
+3b2a3f96-4cf1-4b60-b8d0-d50333db9b9b,Carlos Powers,2001-06-27,Female,271905,No,363631,>10%,Long Term,Building an emergency fund,Self-Employed
+e8eea34c-cea4-4d4f-bb65-612a52684179,Jeffrey Coffey,1991-12-18,Male,1621327,Yes,239820,5-10%,Medium Term,Paying off college debt,Retired
+31a470cc-1e61-4aa5-b616-a5617374feae,David Martin,1960-09-25,Other,1339762,Yes,334953,<5%,Long Term,Saving for vacation,Self-Employed
+d7f6ef31-4b16-4daf-a128-dd1b4a872104,Jennifer Munoz,1962-01-21,Other,1220643,Yes,112614,>10%,Medium Term,Buying a house,Employed
+b5dbda0c-c0a4-4ec3-beea-397edc9c1bb5,Scott Moore,2003-09-18,Female,1104919,No,341825,5-10%,Long Term,Paying off college debt,Employed
+870a0810-edff-4efa-9c2e-76e4a5c3cfb0,Nicholas Knapp,2001-03-14,Other,600863,No,53144,>10%,Medium Term,Securing a comfortable retirement,Retired
+98ea1034-c777-4cd5-951a-5d666356c51b,Taylor Lopez,1981-12-31,Female,1340437,No,285380,<5%,Medium Term,Investing in a business venture,Self-Employed
+8eebfd0f-59a6-4ba0-81bc-5e38cf14402a,Kevin Marquez,1971-07-05,Other,628149,Yes,375490,<5%,Medium Term,Investing in a business venture,Unemployed
+5a6dcdde-7224-41e0-81c1-3faf97f14909,Derek Spears,2004-12-06,Male,1846547,Yes,98666,<5%,Long Term,Saving for vacation,Employed
+4f69ef68-5732-4a53-85c0-808c1afedc84,Stephanie Schmidt,1973-06-02,Other,1265157,No,312446,<5%,Long Term,Building an emergency fund,Unemployed
+066012ec-88ea-4367-a830-4e3ec851a4c1,Elizabeth Vega,1961-05-07,Female,425752,No,459822,>10%,Long Term,Securing a comfortable retirement,Employed
+868409ab-8b58-4f73-bcbe-f607f2d1c212,Laurie Anderson,1966-04-19,Other,1144736,Yes,3884,>10%,Short Term,Saving for children's education,Retired
+ad8a893e-c465-43f6-8b84-cdf0a1d4135f,Ian Rodriguez,1960-03-18,Male,671736,No,301561,5-10%,Long Term,Securing a comfortable retirement,Retired
+314bb295-562b-4553-a0a7-9bed8b967b7a,Jennifer Miller,2000-03-30,Other,125945,No,81140,5-10%,Medium Term,Saving for vacation,Unemployed
+b7848032-8e1a-4de2-ba46-7fb60cabb542,Stephen Robertson,1990-02-20,Male,1020356,No,98051,>10%,Medium Term,Paying off college debt,Retired
+521dd87c-811e-47e9-9a2d-18bb4b96db6b,Roberto Gonzalez,1975-05-05,Female,757391,Yes,26876,>10%,Long Term,Building an emergency fund,Unemployed
+b2e268d1-ef60-4e3f-b17c-6e69cd43a13f,Nathan Bryant,1977-09-04,Male,1802626,No,1717,5-10%,Long Term,Investing in a business venture,Employed
+01ae61cf-989d-44bf-a79d-f8f8ad562e7b,Larry Marshall,1989-10-13,Female,1329334,No,52610,<5%,Short Term,Securing a comfortable retirement,Self-Employed
+ec705287-5c98-4ed4-b8a1-a44fd3a715f7,Tim Cox,2004-12-12,Male,498693,Yes,363350,<5%,Short Term,Securing a comfortable retirement,Employed
+e33c278b-0a21-4614-8e7a-313f274c703f,Tanya Kerr,2002-08-27,Male,1026073,Yes,372536,<5%,Short Term,Building an emergency fund,Self-Employed
+2644a38b-9cd5-483a-87ba-87636fb8da80,Amy Hernandez,1968-11-30,Other,870349,Yes,7303,<5%,Long Term,Securing a comfortable retirement,Unemployed
+a3716e7b-fa62-4a0e-bb94-4bc7b3ea8029,Richard Walls,1985-07-17,Other,260683,Yes,382047,5-10%,Medium Term,Investing in a business venture,Retired
+866602bb-6849-474c-83a0-f2ed27017c93,Howard Kaiser,1975-09-17,Other,1040361,Yes,69430,<5%,Long Term,Saving for vacation,Retired
+f80b0df3-20bb-4488-8a9d-b68eac092d99,Roger Coleman,1980-09-21,Male,528244,Yes,468736,5-10%,Short Term,Paying off college debt,Retired
+f427e6eb-f3a7-4e8b-bf09-36891ff27f11,Andrea Odom,1983-10-14,Male,465674,No,327641,<5%,Short Term,Paying off college debt,Employed
+fa8d9c55-ef47-4108-a52d-033b6b4775f4,Debra Smith,1972-05-16,Female,1878012,No,44203,<5%,Medium Term,Saving for children's education,Unemployed
+41fd871b-300d-4e2c-b28d-c26d48c3086f,Randy Kelly,1991-09-20,Male,1195629,No,184086,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+d3c96c69-7a61-491d-a82d-4e4314a674a7,Melissa Bird,1991-11-17,Male,112149,No,286093,5-10%,Medium Term,Buying a house,Self-Employed
+69e0d473-a859-494a-b6f3-14ee752474e1,Laurie Wilson,2002-11-14,Female,136448,Yes,128766,>10%,Medium Term,Building an emergency fund,Retired
+595972be-9a0f-4855-932f-f091bf28c424,Rose Buchanan,1964-06-03,Male,398708,No,440066,>10%,Short Term,Building an emergency fund,Employed
+580500fd-9e7e-438f-9d18-b225922b80bf,Robert Reyes,1980-05-24,Male,655629,Yes,82679,<5%,Long Term,Saving for children's education,Unemployed
+5e21ca6c-93b6-4364-bf38-d210a8adf338,Heidi King,2006-01-01,Male,901285,No,2871,<5%,Medium Term,Saving for children's education,Employed
+f3392252-1790-45bd-b845-34f192b19983,Michael Kim,1959-12-18,Other,1203005,Yes,341600,5-10%,Medium Term,Saving for children's education,Self-Employed
+f180f1a1-6339-475c-8283-d2d23df12f99,Kylie Tucker,1995-08-06,Other,573175,Yes,211034,>10%,Medium Term,Investing in a business venture,Unemployed
+4b8f52b4-1280-48ef-95b8-772016c5b30c,Chelsea Morrison,1989-06-19,Female,1127383,No,275011,<5%,Short Term,Investing in a business venture,Self-Employed
+54d7d101-6118-4105-b42c-1e16565d7b19,Tammy Farrell MD,1980-05-16,Male,1802417,No,88037,<5%,Medium Term,Saving for vacation,Retired
+1cddf435-3448-4d42-b3be-ef8638cb4c40,Kerry Foster,1966-10-19,Male,224728,No,14427,>10%,Medium Term,Paying off college debt,Unemployed
+cfc5c213-d8d6-4733-b088-5bff94f7a9da,Jonathan Jones,1993-08-07,Male,1681303,No,46676,>10%,Short Term,Saving for children's education,Unemployed
+22c75196-1d85-4b7f-9bca-49727bf2b0eb,Jessica Snyder,1978-08-29,Other,1435424,Yes,429066,>10%,Short Term,Saving for children's education,Employed
+195662b6-f06b-4f38-ba56-613cf9177860,Kyle Huerta,1981-04-18,Female,216232,No,110536,<5%,Short Term,Paying off college debt,Retired
+c7f69b41-ab1d-4b5a-91b4-118a494b38b3,Rachel Moyer,1989-06-08,Female,1934222,Yes,404264,>10%,Short Term,Securing a comfortable retirement,Retired
+ca3f8efc-c259-4f2a-9ce9-5d042864af4b,Russell Moran,1977-02-25,Other,989318,No,214370,<5%,Long Term,Saving for vacation,Employed
+9ca38e99-0c50-49ec-9a06-6e040b8de784,Mrs. Samantha Ritter,1994-07-15,Female,379707,No,416342,<5%,Short Term,Buying a house,Employed
+db693730-3790-4abf-b17b-e24484e38bc0,Justin Johnson,1976-12-29,Other,741042,Yes,181877,>10%,Short Term,Investing in a business venture,Self-Employed
+7a050fa4-4ab4-4627-9f71-a28bbefd106e,Sherry Moreno,1983-11-09,Female,160890,No,336095,>10%,Medium Term,Buying a house,Retired
+f2130aa7-388e-42f8-8cbe-118e39b0f6e7,John Mccarty,2000-08-23,Other,269841,No,370217,>10%,Short Term,Buying a house,Employed
+12262885-7e8d-423b-9ad6-5db5c41e6482,Peter Sanchez,1991-04-02,Other,1810794,Yes,300761,<5%,Short Term,Building an emergency fund,Unemployed
+7c618b74-d6ab-46f3-8384-33f60c6b0fb5,John Hensley,1999-08-24,Female,1855190,Yes,260852,<5%,Medium Term,Saving for children's education,Unemployed
+4000cd5f-9899-446d-a5f2-6b9b77524d53,Tracy Lane,1961-01-06,Female,1603396,No,225830,5-10%,Medium Term,Building an emergency fund,Retired
+90d93512-c32c-41c7-9a33-1b368913cf99,Daniel Smith DDS,1967-01-06,Other,869619,Yes,280675,5-10%,Short Term,Building an emergency fund,Retired
+9737c82b-30fa-4771-b3c9-918e5248dbcc,Justin Mercado,1969-07-21,Male,1870239,No,415512,5-10%,Long Term,Paying off college debt,Employed
+30052930-95a3-42d4-b6a8-d59a2ae4846f,Andrea Todd,1960-11-13,Female,395922,No,300031,>10%,Medium Term,Investing in a business venture,Self-Employed
+bf2bf8a2-1918-41d0-acee-5233415b03be,Cody Ramos,1961-06-19,Other,485872,Yes,302663,<5%,Long Term,Securing a comfortable retirement,Employed
+43166065-5f7d-40f7-8235-9b25e42927c5,Jonathan Wilson,1960-12-08,Female,1526488,No,68682,5-10%,Long Term,Buying a house,Retired
+46a220e3-ee54-4060-94cb-45e755f4ce8d,Donna West,1988-10-07,Other,822777,No,31661,>10%,Short Term,Saving for vacation,Self-Employed
+c16a21b9-d751-46bf-9fa9-f4b09e3c97e5,Caleb Clark,1968-01-04,Other,1480995,Yes,95990,5-10%,Medium Term,Investing in a business venture,Employed
+31172089-1a7c-49fe-9d22-6e23c1a21020,Terri Richardson,1971-04-13,Female,435468,No,245288,>10%,Long Term,Buying a house,Self-Employed
+82099132-969f-49d1-aa6c-89f9dbc4b50e,Billy Adams,1968-07-10,Female,866789,No,43121,>10%,Long Term,Paying off college debt,Self-Employed
+a8c0f12e-56e3-4a38-bf8b-91f9aba56743,Jason Bruce,2005-03-14,Female,1271268,Yes,107729,5-10%,Medium Term,Saving for children's education,Self-Employed
+a08efd00-5e05-465a-b8f7-f62200aa31fe,Andrew Shannon,1970-09-22,Female,177164,No,399401,5-10%,Medium Term,Paying off college debt,Retired
+a14b642a-0af6-47e3-aeb1-06f2a8145586,Carla Nguyen,1985-01-29,Other,404220,No,244079,<5%,Medium Term,Investing in a business venture,Retired
+9ad82df5-2183-4236-a4fd-046e7af02d9d,Carol Phillips,1975-12-10,Female,1490278,No,473086,<5%,Long Term,Saving for children's education,Unemployed
+8d50a62a-3df8-4abb-94e1-ae5e8e6f7559,Eric Todd,1981-01-20,Female,877214,Yes,473834,>10%,Short Term,Saving for children's education,Employed
+f8f30954-b4a0-488f-8a45-c142c020c981,Linda Willis,1975-06-19,Other,151107,Yes,168581,>10%,Medium Term,Building an emergency fund,Employed
+50db3401-3cfa-4cbb-a2fe-5254c90c456a,Terri Brown,1961-02-10,Male,390501,No,441947,>10%,Medium Term,Saving for children's education,Employed
+5b8439df-f200-473b-8d14-072ff16ee428,Ryan Wong,1998-07-05,Female,1540811,Yes,243440,>10%,Long Term,Paying off college debt,Unemployed
+fb8e5474-586c-42ab-a895-7117b19ea936,Billy Clark,1990-02-10,Male,584826,No,337384,5-10%,Long Term,Investing in a business venture,Employed
+c1424834-b9b0-452e-89a6-0a0ee20147c0,John Summers,1978-06-14,Male,1865381,Yes,15433,<5%,Short Term,Paying off college debt,Self-Employed
+b39d7d0c-234c-4292-aeb3-ba4791d9f848,Drew Miller,1982-10-17,Male,630757,Yes,252041,<5%,Long Term,Saving for children's education,Unemployed
+9913510a-1306-4aa2-af95-4791eae07f7f,Emily Ramos,1992-09-16,Other,1966713,Yes,155301,5-10%,Long Term,Building an emergency fund,Retired
+2f6a0be2-a7b2-4bd3-87e8-bf0fb1a68e76,Sharon Nash,1989-06-23,Female,1703461,No,230079,<5%,Long Term,Investing in a business venture,Unemployed
+a88ab701-6931-4403-9b21-6138b12a1dc5,Aaron Robinson,2003-03-25,Female,123797,No,320554,5-10%,Short Term,Saving for vacation,Self-Employed
+39e72cfe-fe7a-468c-9a93-f5d6fb7294e9,Charles Phillips,1998-02-02,Male,724169,No,33063,>10%,Medium Term,Saving for vacation,Retired
+a57bab88-4b89-4b21-abe7-c270b67d0363,Tina Dixon,1988-10-08,Female,1827479,No,93845,>10%,Short Term,Paying off college debt,Unemployed
+578df051-ce0c-416a-8a34-46a2ac7411ef,Luke Kennedy,1995-06-10,Other,1874303,No,236259,<5%,Short Term,Saving for children's education,Retired
+077921a3-aedd-4b57-a831-4faa241d895b,Crystal Martin,1960-01-27,Other,1612578,No,451070,5-10%,Medium Term,Buying a house,Retired
+44582ae2-f2e0-487b-916c-f4bcfeb095ec,Frederick Wilson,1978-01-15,Female,576008,Yes,285975,5-10%,Short Term,Saving for vacation,Employed
+34859bf6-5ce1-45f2-9a9f-3a17d79566ac,James Green,2001-04-06,Male,1171370,Yes,329482,<5%,Long Term,Saving for children's education,Self-Employed
+0ff69534-f7a8-4990-a1b1-7482bc01d044,Erik Hernandez,2000-02-09,Female,1436183,Yes,255442,5-10%,Long Term,Investing in a business venture,Employed
+53736c7c-629c-480e-af9b-4c6273209724,Kathleen Henson,1986-10-30,Male,1882219,No,92180,>10%,Short Term,Saving for vacation,Employed
+e22ff50a-7c9f-4a40-8b5b-685fcdd003cf,Kim Barton,1965-04-07,Other,536564,No,188206,5-10%,Long Term,Paying off college debt,Retired
+8d31add0-0416-4550-9547-2e86ebbe23ca,Jeffrey Gonzalez,1988-01-11,Other,875898,Yes,388348,<5%,Medium Term,Saving for children's education,Retired
+b1776271-f4e5-4be9-b14e-538357d4e625,Ronald Hughes,1968-03-26,Female,245152,No,228387,5-10%,Medium Term,Saving for vacation,Retired
+831395a4-a5e3-420e-ab58-3e808100ae13,Kaitlin Poole,1987-05-27,Male,1981485,No,312991,>10%,Long Term,Investing in a business venture,Self-Employed
+04bc3f27-34e5-45e2-8632-e9fd7d31c0ad,Daniel Sims,1979-07-07,Male,1942444,No,253257,5-10%,Medium Term,Securing a comfortable retirement,Retired
+d6e734bf-5c48-43a8-8b47-33bb1ddbc85a,Carolyn Clark,1963-10-15,Female,79002,No,178201,>10%,Short Term,Paying off college debt,Unemployed
+894018cd-2c84-4f64-9270-bc698da44ed0,Kristin Erickson,1997-10-17,Female,257662,Yes,40275,>10%,Long Term,Investing in a business venture,Employed
+11f563a5-27ea-4c8f-adc5-78166cbcdfab,Jennifer Roman,1992-12-20,Other,92416,No,220070,<5%,Short Term,Buying a house,Unemployed
+09865b93-9ea6-42c9-a307-c2ee870b81cc,Brittany Rodriguez,2003-05-22,Male,679058,Yes,313003,5-10%,Short Term,Investing in a business venture,Self-Employed
+82c96040-9099-4cb1-905c-407b34793e23,Michael Jenkins,2003-03-10,Male,1119187,No,221438,<5%,Short Term,Paying off college debt,Retired
+c880ac9c-2bf4-4226-8b5e-0e5b4d0a5d01,Nina Jacobs,1984-01-19,Other,1797338,No,67859,5-10%,Long Term,Buying a house,Unemployed
+7e16ab85-bc3b-48c3-b3b8-bef73e6f3795,Paige Lee,2001-11-20,Male,63312,Yes,39416,5-10%,Short Term,Investing in a business venture,Self-Employed
+45572078-0e19-4ba1-8a6a-10b042e4124f,Heather Washington,1976-06-15,Female,1787520,Yes,83266,5-10%,Long Term,Saving for vacation,Unemployed
+632c7037-8f73-4564-a06d-69d8e46d8c1b,Amber Ramirez,1967-11-30,Male,959938,Yes,128886,5-10%,Medium Term,Securing a comfortable retirement,Self-Employed
+4c20919a-11e1-4210-aeb5-dcfd6dc905f2,David Ortiz,1961-09-01,Female,1721056,No,343821,5-10%,Long Term,Saving for vacation,Retired
+51058db4-c19e-464c-aced-8b0dca4b2097,Melissa Bridges,1980-10-02,Male,1303885,No,410546,>10%,Medium Term,Buying a house,Unemployed
+83933399-5998-4bbb-a928-f21dd9775ae5,Susan Garcia,1993-02-16,Female,683039,Yes,209472,<5%,Short Term,Securing a comfortable retirement,Retired
+2db9fadf-8976-4c11-989f-54a2f9691f2a,Mark Rhodes,1981-01-25,Female,357392,Yes,450407,>10%,Long Term,Investing in a business venture,Retired
+985afc5f-e5fc-4ff7-a15d-601d7907f199,Anna Russell,1994-03-29,Female,1068346,Yes,85953,>10%,Short Term,Investing in a business venture,Unemployed
+68e8fbc4-01c3-44d0-89f5-63cdbf8156e0,Stanley Berg,2005-08-02,Male,329147,No,363173,5-10%,Medium Term,Building an emergency fund,Unemployed
+4a29eb47-1e62-4b78-b306-47b6d410ac68,Hannah Brooks,1984-01-20,Male,1050922,Yes,296162,>10%,Long Term,Saving for vacation,Unemployed
+67cf4950-ba33-4c24-ae68-f24f5f050eb0,Mark Curtis,1984-10-12,Male,814132,Yes,496872,5-10%,Long Term,Investing in a business venture,Self-Employed
+d069225b-d0bf-43df-a21c-1046f4a823a0,Bryan Brooks,2006-03-25,Male,708738,Yes,351104,<5%,Short Term,Investing in a business venture,Unemployed
+4982445f-1d27-44ab-b2e6-cb93facb43c3,Misty Herrera,1986-08-16,Male,163921,No,128140,>10%,Short Term,Saving for vacation,Employed
+0db71173-e7fb-4fd3-bfd6-b5421b2f5a2c,Andrew Guerrero,1960-11-19,Male,1057019,Yes,363227,>10%,Short Term,Saving for children's education,Unemployed
+3783865a-4a29-41f5-bc02-2d1fe993c8e2,Cassidy Wilkinson,2004-11-20,Female,1532203,No,109580,5-10%,Long Term,Investing in a business venture,Retired
+e3945d77-4870-42b8-80f7-feec36b7ee14,Kathy Simpson,1979-04-25,Female,1750227,No,167955,>10%,Long Term,Building an emergency fund,Self-Employed
+fb2cf0b0-3603-4ff9-800e-48a458352f0b,Maria Lloyd,1966-05-15,Other,531487,No,247129,>10%,Short Term,Investing in a business venture,Self-Employed
+648c195b-8d85-43b6-afea-4928ca61b040,Kevin Morrison,2005-05-08,Female,482356,No,314846,5-10%,Short Term,Securing a comfortable retirement,Self-Employed
+5302785a-406a-4abe-9d50-5d7a720d9a26,Kayla Kelly,1987-02-12,Male,264193,No,383068,>10%,Short Term,Securing a comfortable retirement,Retired
+0e74c58f-c447-4b00-bcbe-53fb78206b73,Bradley Carter,1995-06-14,Male,1688572,No,264525,5-10%,Long Term,Investing in a business venture,Self-Employed
+928caf21-9155-4091-9d4a-d427715d4b0d,Pamela Rose,1961-07-02,Female,1937144,Yes,495539,5-10%,Short Term,Saving for vacation,Retired
+01f56d6a-d029-4451-93be-6a070a9c66e7,Keith Hess,1974-12-20,Male,1843902,Yes,9547,<5%,Long Term,Securing a comfortable retirement,Retired
+1f6c4381-900d-4448-b2e2-479d04b81a85,Tammy Burns,1975-09-17,Male,1601892,No,486922,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+73db5528-1d05-4d3e-9365-0534f9b1af27,Samuel Ross,1970-10-12,Other,1442847,Yes,9416,<5%,Long Term,Saving for children's education,Unemployed
+dd0ee92e-d9cf-4af5-8dff-53296d4ba97c,Samuel Torres,1976-05-15,Female,1848256,No,431002,<5%,Short Term,Saving for children's education,Self-Employed
+75ebd166-6a84-4555-b494-cc00d08cee99,Roy Conner,1979-10-03,Male,860482,Yes,72686,5-10%,Short Term,Paying off college debt,Self-Employed
+fbe6e22f-3ce4-49be-ac11-8dcc6d499353,Meghan Carter,1998-11-12,Other,419062,No,231509,>10%,Long Term,Saving for children's education,Unemployed
+9ac7ea71-55d8-4856-b132-87ff80d33b29,Olivia Willis,1999-04-22,Female,1364242,Yes,209872,>10%,Long Term,Saving for vacation,Retired
+e9083775-c9ce-422d-975d-287f75ce336f,Jenna Carter,2003-08-19,Male,1998618,No,114353,<5%,Short Term,Saving for vacation,Retired
+a1c2d80f-d82b-468e-93a1-bbef9a569c78,Mason Williams,1975-12-09,Other,187905,Yes,435277,5-10%,Long Term,Buying a house,Self-Employed
+ef7a6fca-4819-4ea0-84c6-92cc3b10a477,Michele Kim,1997-01-07,Female,1048359,No,335877,<5%,Medium Term,Buying a house,Retired
+e6c3ae1d-42c1-4a75-b3f0-3314941a7f16,Brian Ramsey,1997-06-30,Other,1592967,Yes,467964,<5%,Medium Term,Paying off college debt,Self-Employed
+25b1c74c-a584-4cae-a537-5d486cba42d9,Victoria Barrera,1971-06-10,Male,1720886,Yes,396306,>10%,Short Term,Paying off college debt,Retired
+c2069a96-12eb-474f-8a0e-c9393bc2a335,Melissa Fuller,1993-06-11,Other,668409,No,372315,5-10%,Medium Term,Paying off college debt,Self-Employed
+6bd514a2-b8b8-4d47-8eb1-0267785deaee,Dylan Brown,1978-12-10,Female,397302,Yes,141127,5-10%,Medium Term,Paying off college debt,Unemployed
+18a441ef-218f-4e64-8e83-a8f8701cc99d,Rebecca Leonard,1973-04-19,Other,83215,No,407561,>10%,Long Term,Saving for vacation,Unemployed
+37d45644-4753-460f-979f-152c97024539,Nicholas Bauer,1988-01-11,Male,1176238,Yes,14862,>10%,Short Term,Paying off college debt,Retired
+e1d141b2-863a-4232-b925-20d98b7b17de,Amanda Singh,1965-12-11,Other,1707689,No,327716,>10%,Medium Term,Building an emergency fund,Employed
+9a76b8a7-1e10-4306-982f-f29f8827ff6f,Victoria Gomez,2000-06-24,Male,967497,Yes,333314,<5%,Long Term,Paying off college debt,Retired
+b1e30da7-64e6-4852-860f-d10740fc2a9c,Mary Thompson,1980-04-03,Female,1725188,Yes,299130,5-10%,Short Term,Paying off college debt,Self-Employed
+b820e6cf-afe8-40fc-bfd0-4fc0b91e47e2,Tyler Anderson,1970-06-02,Other,1415712,Yes,465708,5-10%,Long Term,Securing a comfortable retirement,Employed
+346f0916-063d-464b-839c-d797587a8d0e,Christina Williams,1964-01-29,Female,1894100,No,268368,>10%,Long Term,Buying a house,Unemployed
+5f5d38c6-d99b-4141-a7cc-d1fd89aa31fa,Brandi Benson,1999-12-22,Female,1924876,Yes,483981,<5%,Medium Term,Investing in a business venture,Self-Employed
+1de4bef8-223a-4943-afe4-436c1e52968f,James Hanson,1986-11-05,Other,1975694,No,293758,<5%,Medium Term,Paying off college debt,Unemployed
+4f45e52a-d16d-4777-bf7b-d596d5358fab,Kathleen Parker,1999-09-10,Other,43546,No,276401,5-10%,Short Term,Building an emergency fund,Unemployed
+3600bbae-f746-4a6a-a039-7d0b0bc2144e,Paula Zimmerman,1977-03-03,Male,1633027,Yes,61666,<5%,Long Term,Buying a house,Self-Employed
+a6029648-a0ec-4449-8837-c5abc45b524f,Kathleen Olson,1995-07-28,Male,935739,No,369577,5-10%,Medium Term,Securing a comfortable retirement,Retired
+e342154f-92e8-42d7-b4cc-a0cccd17d8f3,Samantha Parker,1995-10-28,Female,873092,No,281541,<5%,Medium Term,Securing a comfortable retirement,Unemployed
+6305098d-06ac-4f1e-9341-d1e1534a7151,Jeremy Wilkins,1997-06-24,Female,1793599,Yes,172239,<5%,Long Term,Saving for children's education,Self-Employed
+57d20026-488f-4b56-b409-c38f8627213c,Caitlyn Foster,1997-08-23,Other,1177111,Yes,212828,<5%,Medium Term,Saving for children's education,Unemployed
+e4d754eb-586b-476c-aa68-e9b24972957e,Gavin Olson,1975-06-28,Other,1950770,No,456279,>10%,Short Term,Securing a comfortable retirement,Self-Employed
+8519b62e-92e9-497f-aab3-90710ffeacba,Dana Webb,1982-09-30,Other,511896,No,465826,>10%,Medium Term,Securing a comfortable retirement,Unemployed
+8f25b1fc-30cb-43cb-bc37-eaf7c5ed84d0,Eddie Mitchell,1961-06-14,Other,204486,Yes,78693,>10%,Short Term,Saving for vacation,Self-Employed
+1911875b-52ea-4cfc-895c-5e18bf8af9cf,Jessica Kelly,1995-05-05,Other,1189794,Yes,329866,<5%,Medium Term,Investing in a business venture,Retired
+66e2aa1e-80de-4607-a396-220d44a651bb,Michelle Davis,1979-11-23,Other,717634,Yes,235450,5-10%,Long Term,Saving for vacation,Self-Employed
+46713a45-9ad4-41ae-a5e4-492a9bfd3b2c,Jenna Johnson,1994-10-03,Male,489065,No,112525,5-10%,Long Term,Buying a house,Retired
+e4e62783-01ab-456d-830c-ef980f2efc72,Adam Garrison,1992-01-11,Male,1210835,No,201078,>10%,Long Term,Saving for vacation,Retired
+8bdd793a-b94c-47c4-b4fe-dfc558bc9761,Donna Herrera,1966-04-13,Female,546543,No,36592,>10%,Short Term,Building an emergency fund,Unemployed
+dd754d94-6880-485f-aac3-2e6bdacf2c06,Alexis Green,1968-09-16,Female,844206,Yes,104361,5-10%,Short Term,Securing a comfortable retirement,Employed
+343a4b8b-619b-4e1c-a782-2228d8eb5a65,Hector Young,1969-12-08,Other,1417787,No,32093,>10%,Short Term,Securing a comfortable retirement,Unemployed
+bdcd1b43-2788-4649-9048-acecbb784075,Jonathan Suarez,1997-02-11,Other,1652975,Yes,245505,<5%,Short Term,Buying a house,Retired
+af0eae21-f3a0-47be-9d8d-2da167464fc9,Travis Lynch,1964-12-06,Other,185635,No,128767,>10%,Short Term,Paying off college debt,Employed
+d34108d3-3ff3-456f-ae0f-6d2244dbb501,Shelby Adams,2002-06-29,Other,1163884,No,88663,<5%,Short Term,Saving for vacation,Unemployed
+e556ce39-ab38-481a-b9bb-896c2cc881fb,Megan Taylor,2004-09-16,Male,444392,Yes,313471,<5%,Medium Term,Securing a comfortable retirement,Self-Employed
+ddd5fc83-e666-491f-a29e-20465e0e1edb,Zoe Tanner,1978-01-02,Female,1828290,Yes,118000,5-10%,Long Term,Paying off college debt,Self-Employed
+79cb2066-d2f8-48ee-afac-46658865b6bb,Crystal Alexander,2002-12-22,Other,901999,No,408600,5-10%,Long Term,Saving for children's education,Employed
+a7db7d7e-fc3e-42f0-a543-93433cc2b77e,Jordan Miller,1974-02-11,Male,458790,No,292497,5-10%,Medium Term,Buying a house,Unemployed
+2c42c508-8db1-4194-abbb-26d1eff8af59,Vincent Coleman,1976-12-28,Male,189459,Yes,438300,>10%,Medium Term,Saving for children's education,Unemployed
+0cfb4c86-de86-48cf-b451-4098b233cfec,Bradley Brown,1966-07-14,Female,971959,No,241397,<5%,Medium Term,Investing in a business venture,Unemployed
+194699d6-cc0c-4748-aa0f-e694432ae582,Lindsey Johnson,1985-12-04,Other,1052760,No,163913,5-10%,Long Term,Securing a comfortable retirement,Retired
+5d6c2ff3-7fcc-4d84-980a-c6e45330cf4c,Eddie Brewer,2004-09-17,Male,390855,Yes,282724,>10%,Long Term,Saving for vacation,Unemployed
+35448edf-5ca8-435e-9e38-aa757582c626,Samuel Vaughan,1979-01-31,Male,1660192,Yes,285762,<5%,Short Term,Investing in a business venture,Unemployed
+c2faa282-b57e-4ad7-b58e-862afc66e323,Belinda Massey,1979-11-01,Male,455928,No,393029,<5%,Medium Term,Investing in a business venture,Retired
+78670855-44a6-46f9-aa0b-ce0f02819a28,Angela Barnes,1971-08-06,Male,1508959,No,169965,5-10%,Medium Term,Securing a comfortable retirement,Retired
+e0b7b5eb-e0e1-4fd0-b254-cb04221f5fab,Melissa Tucker,1992-02-17,Male,1927155,Yes,310243,5-10%,Medium Term,Saving for vacation,Self-Employed
+62946e44-d4a8-4843-ad9a-042c911c40f0,Brianna Murphy,1967-11-30,Other,1312919,No,295404,<5%,Long Term,Buying a house,Unemployed
+1cfd0570-3aeb-4964-bad8-a3356bc4b7f8,Tiffany Perez,1991-06-15,Other,297964,No,486903,<5%,Long Term,Securing a comfortable retirement,Unemployed
+143fdd09-81ec-4fd7-81b1-f1562ea6cb14,Sarah Moore,2002-07-17,Female,886727,Yes,431338,>10%,Short Term,Building an emergency fund,Unemployed
+0545d9ce-dc93-4490-a2b8-6cd946eb22f9,Jamie Hunt,2004-03-27,Male,1889309,No,57446,<5%,Medium Term,Buying a house,Retired
+79b18a60-c877-4127-a814-1135a8003876,Amanda Miller,1978-09-24,Male,1534067,Yes,263626,>10%,Long Term,Investing in a business venture,Self-Employed
+5213565d-ab14-4cef-97cc-d0928eea7c06,David Harris,2005-01-10,Male,1168941,Yes,74535,>10%,Short Term,Paying off college debt,Employed
+8e716778-0ff7-47e4-a099-12da8e83b224,Frank Wheeler,1976-07-13,Female,1751588,Yes,457613,<5%,Medium Term,Buying a house,Self-Employed
+ee57669b-e602-4907-9e51-706589a8b349,Victoria Miles,1975-10-21,Other,829432,Yes,442971,>10%,Medium Term,Saving for children's education,Employed
+1ec18c12-f3a8-4031-a7f6-1f03593a5475,Mark Jones,1969-06-03,Other,786079,Yes,93241,<5%,Short Term,Securing a comfortable retirement,Self-Employed
+7f6308f3-fdcd-4858-b34a-fbf5ca306d66,Amber Schwartz,1974-04-11,Female,101430,No,143782,5-10%,Short Term,Paying off college debt,Unemployed
+426de8df-654c-45e9-9870-154ce5016eee,Vincent Burke,1981-10-29,Other,1901527,No,5206,5-10%,Medium Term,Building an emergency fund,Self-Employed
+e2438903-d89c-4982-b3d7-fbbad73bd8d8,Anne West,1977-06-14,Male,759922,No,482921,5-10%,Medium Term,Building an emergency fund,Self-Employed
+137ad943-291e-420b-8e72-34150ba0341e,Michael Johnson,1966-11-18,Other,509528,Yes,245033,5-10%,Short Term,Investing in a business venture,Employed
+f3f0403d-6a62-488d-9d57-8a43641129f1,Carolyn Torres,1980-10-05,Male,936815,No,347858,<5%,Long Term,Saving for vacation,Unemployed
+9a7580c3-b768-468b-8d87-d71f1ee19fd8,Brandon Anderson MD,2004-02-22,Female,976153,No,113903,<5%,Long Term,Investing in a business venture,Retired
+fa7ca7c0-1282-4705-baf6-fc646409aec9,Heather Wilson,1993-11-08,Other,340924,Yes,324048,5-10%,Medium Term,Saving for vacation,Self-Employed
+ae317218-8e95-4a09-8848-64e57abce183,Robert Dean,1959-10-12,Female,958773,Yes,67715,5-10%,Medium Term,Investing in a business venture,Retired
+c2ba0c83-a336-4786-8a21-3344268d28df,Paul Jordan,2002-12-27,Male,492525,No,123150,<5%,Medium Term,Investing in a business venture,Unemployed
+b0a4155e-7dd1-4649-84dd-070b9328c428,Sheila Davis DDS,1966-07-25,Other,1046382,Yes,483251,<5%,Short Term,Saving for vacation,Employed
+3118fb33-5c5d-44a5-8dda-8a21ea46eaac,Stephanie Alvarez,1992-04-11,Male,1780553,No,364906,5-10%,Medium Term,Securing a comfortable retirement,Retired
+62c4aa5b-12de-49ba-aa04-fd42684411bd,Tamara Miller,1998-04-07,Other,1454062,No,226558,5-10%,Short Term,Building an emergency fund,Employed
+5835c8ff-73f0-4ad1-8f8d-390c51d4e79e,Sara Orozco,1987-12-11,Other,1895410,No,400025,5-10%,Long Term,Buying a house,Unemployed
+3e3cc8e4-138b-466b-97ab-37c9dd570758,Rickey Bradford,2005-02-05,Other,1810808,Yes,388488,>10%,Long Term,Buying a house,Unemployed
+b65a3d51-1f22-402c-9cef-2bb61c2925c3,Angela Figueroa,1962-05-14,Female,199089,Yes,69433,>10%,Long Term,Buying a house,Employed
+1488d7b7-19c0-49c3-9aa8-1e6a9e49cf3b,Danny Obrien,2004-09-21,Male,1145160,No,321641,<5%,Short Term,Building an emergency fund,Employed
+b913fc52-4cad-40f9-a5d4-9cd92d78fa4c,Lisa Garcia,2003-01-10,Male,1377903,No,34760,<5%,Long Term,Investing in a business venture,Self-Employed
+cf7afad3-d6c4-4f02-bdea-7d37c29b3e53,Sean Deleon,1974-06-20,Other,851604,No,112878,<5%,Medium Term,Building an emergency fund,Self-Employed
+58c2d2eb-a4aa-4f75-9e53-3c657d481cf9,Lindsey Koch,1976-10-09,Male,1699358,Yes,164421,<5%,Medium Term,Investing in a business venture,Employed
+9c82938d-ed35-449f-9bd6-cc418cef4614,Jennifer Frazier,1964-03-17,Other,1672288,Yes,174542,>10%,Long Term,Buying a house,Self-Employed
+b245c422-0686-43c6-bcba-d51b385de47c,Justin Gonzalez,1962-03-03,Male,327780,Yes,223408,<5%,Short Term,Paying off college debt,Retired
+9be6f52c-37fe-41a4-a92f-f970e6fa8fbc,Karen Harris,1959-11-11,Other,1555209,No,161363,>10%,Short Term,Saving for children's education,Employed
+074ad8ca-b23b-4ba5-a313-b6263622439a,Elizabeth Jacobs,1974-12-25,Female,1060222,No,334249,5-10%,Short Term,Building an emergency fund,Unemployed
+738e8f93-a99f-4a68-bef2-8aff3b4f15b0,Richard Lopez,1966-01-10,Male,153889,No,295941,>10%,Short Term,Buying a house,Unemployed
+f8bd402c-41d5-4f68-92e2-a35976f064ec,Michael Mills,1996-12-14,Female,809735,Yes,191603,5-10%,Medium Term,Building an emergency fund,Retired
+53976b04-29a1-4cc6-a766-11ac63f2626d,Kathleen Summers,1963-01-22,Female,1069656,No,287953,>10%,Short Term,Buying a house,Self-Employed
+c3101bd4-565f-4210-b3c4-7b53d0ab7975,Jenna Harris,1960-04-03,Female,1175385,Yes,173380,5-10%,Long Term,Buying a house,Unemployed
+5d23850c-dce5-46d0-96b6-5151666746f1,Sharon Whitney,1996-08-12,Other,845024,No,114728,<5%,Short Term,Saving for vacation,Employed
+5ce91449-dbf7-4b5b-b09a-f398d1ecc52a,Bill Mora,1976-12-13,Other,915835,No,310323,>10%,Long Term,Saving for vacation,Unemployed
+003df7a6-bc81-4af5-be28-b6211f933d45,Robert Martin,1992-12-26,Other,1392855,Yes,324920,>10%,Short Term,Securing a comfortable retirement,Retired
+1f942f7f-cb27-4ddf-a4cb-a923cb191261,Anne Gordon,1992-08-27,Female,970989,Yes,328116,<5%,Short Term,Saving for children's education,Unemployed
+fd51f4a9-f025-49b3-b699-f6f769088527,Leslie Romero,1965-05-01,Other,1806313,Yes,332730,>10%,Long Term,Buying a house,Employed
+306d9344-3bbb-43fa-a068-c5f7b5778bc4,Heather Meyers,1995-04-17,Other,1467747,No,16865,<5%,Short Term,Building an emergency fund,Employed
+b7ae301d-1de8-40fe-bdde-33dea3a5ec93,Eric Burgess,1968-03-31,Other,1835674,Yes,197751,5-10%,Short Term,Securing a comfortable retirement,Employed
+aeb04b2a-39b2-4e97-88b9-1fa58b85b5f7,Pamela Ross,1976-07-12,Male,848334,Yes,75248,>10%,Medium Term,Securing a comfortable retirement,Self-Employed
+e5bef313-6d5f-4a78-b6ce-379a244027d2,Anthony Perry,1978-12-14,Female,253122,No,241898,5-10%,Medium Term,Building an emergency fund,Retired
+bf5726a9-919c-4673-a9f8-69dfc5130b6b,Kevin Henderson,1992-10-17,Other,545619,No,5732,>10%,Short Term,Buying a house,Employed
+77554001-50ed-48ab-bbed-ccc412cd4027,Nicole Cruz,2004-05-13,Female,693156,Yes,84473,5-10%,Short Term,Securing a comfortable retirement,Retired
+4a7a6485-7a44-4114-b3ff-c65db1658daf,Daniel Lozano,1971-05-01,Other,1308920,No,271961,<5%,Short Term,Saving for children's education,Retired
+678f35e7-53cc-4874-9072-3b6a52784d40,Charles Spencer,1986-07-23,Other,778747,Yes,328209,<5%,Medium Term,Building an emergency fund,Employed
+f2d4759d-b17a-455e-96d7-6b606ab01215,Paige Smith,1966-04-04,Female,1217341,No,14886,>10%,Short Term,Saving for children's education,Unemployed
+c642b508-52c8-4136-938f-59ebd9d9559c,Mary Marshall,1976-11-07,Other,1581028,Yes,271989,<5%,Medium Term,Saving for children's education,Retired
+8de76318-15e7-4ad6-bb8d-474adcf0d48a,Michael Evans MD,1966-04-21,Male,1127327,Yes,298307,>10%,Medium Term,Saving for vacation,Retired
+c11f02cc-9c3e-45d1-b9a6-9af521197493,Samantha Jackson,1972-06-02,Male,570543,Yes,261877,<5%,Long Term,Buying a house,Employed
+9c777dba-8222-45fb-aa81-2dc7b8d1dbaf,Joseph Lam,2000-02-21,Other,1955615,Yes,313987,5-10%,Short Term,Paying off college debt,Self-Employed
+08471d29-f44a-42f5-b935-140e9d0ba1be,Melanie Jones,1960-07-16,Other,1497413,Yes,158000,>10%,Long Term,Saving for children's education,Unemployed
+adf39ff1-0275-4987-a747-3255ccc1f508,Gary Allen,2000-05-06,Other,1043673,No,445662,5-10%,Long Term,Saving for vacation,Retired
+6d91453a-af10-43c0-8bc3-7b4080dfdbf6,Dominique Hammond,2004-07-11,Male,236704,Yes,172470,<5%,Long Term,Saving for vacation,Unemployed
+275f4741-03a6-433a-8f95-1ee4459a2bdf,Sara Carpenter,1978-09-02,Female,938736,No,498160,<5%,Short Term,Paying off college debt,Self-Employed
+19386099-ef4b-49a8-93d8-d301144928a4,Kyle Hodges,1982-07-30,Other,1137335,No,335905,<5%,Long Term,Investing in a business venture,Employed
+ae5ab953-af67-49f8-9e85-97fcb0f39375,Peggy Gordon,1975-11-30,Male,1876330,Yes,124533,>10%,Medium Term,Securing a comfortable retirement,Unemployed
+897c692e-bfeb-4e30-a438-032c46431fdd,Elijah Dillon,1994-03-01,Male,372337,No,440619,5-10%,Medium Term,Securing a comfortable retirement,Employed
+d473c7b3-4a06-40dc-b49c-48fab7373c4c,Christine Spears PhD,1966-09-28,Male,940864,No,498674,5-10%,Short Term,Building an emergency fund,Unemployed
+e81dd4b4-fd96-4876-bbff-20dc0e797bc6,Sarah Gregory,1959-08-08,Other,1261870,No,126339,>10%,Medium Term,Buying a house,Employed
+677b7c4d-d419-4509-b1d6-e104c2f0e644,Kevin Rivera,1993-10-24,Male,973378,No,312692,>10%,Long Term,Saving for children's education,Unemployed
+8311b7d1-544a-430c-8334-617e9595b40a,Brittany Mcdowell,1994-06-26,Male,671166,Yes,479979,5-10%,Long Term,Saving for vacation,Employed
+ceddfc34-4e68-4546-b7e6-3152851831a2,Richard Wilson Jr.,1966-08-01,Male,1638297,Yes,117779,<5%,Medium Term,Saving for vacation,Retired
+ca5c6994-42ef-4223-b442-85d3703257d1,Jeffrey Alvarez,1966-09-19,Female,1965866,No,433895,>10%,Long Term,Saving for vacation,Employed
+009f96da-0562-47b7-9854-d34a89819368,Steven Clark,2005-12-03,Male,87243,Yes,403296,>10%,Short Term,Investing in a business venture,Employed
+4c231908-95a7-4a97-a02c-e913a36c6863,Nicole Ryan,1994-05-17,Female,116980,Yes,263423,5-10%,Long Term,Paying off college debt,Retired
+f70acce3-9df6-4bf9-8e50-bbcceb8902e0,Dalton Fisher,1964-05-15,Female,675281,Yes,292463,5-10%,Short Term,Saving for children's education,Retired
+c9a5cfdb-9ee2-48b0-9373-48f382402882,Tim Smith,1975-04-03,Other,1415284,Yes,134543,<5%,Medium Term,Saving for vacation,Unemployed
+bae7949a-caf2-46ac-8c61-8a6aa1c30c25,Kathryn Martinez,2002-10-17,Male,1583528,No,271504,<5%,Medium Term,Building an emergency fund,Self-Employed
+f542b195-615c-4f1e-a3c4-0c3ca26844e2,Lindsay Dodson,1968-11-14,Female,692912,No,372595,5-10%,Long Term,Investing in a business venture,Employed
+0f984063-4b10-49e0-a78b-f075f936a258,Cody Scott,1973-10-12,Male,765713,No,80259,<5%,Short Term,Saving for vacation,Retired
+39764029-f779-4bbe-b202-13663e966e11,Barry Adkins,2003-07-04,Other,456289,Yes,459806,>10%,Short Term,Paying off college debt,Retired
+bf3d5027-9481-481d-84b1-b6cca5213208,Elizabeth Ferguson,1993-11-21,Female,824720,No,127536,<5%,Medium Term,Buying a house,Retired
+a784b446-f99f-411c-b591-38fde5e5c914,Margaret Hartman,1978-09-03,Other,1648057,Yes,498275,>10%,Long Term,Saving for vacation,Self-Employed
+d9b81402-d812-4302-bd9e-d590b3a70359,Jerry Watson,2003-06-12,Male,303905,No,15649,>10%,Medium Term,Investing in a business venture,Employed
+3e7ecb4c-f210-420f-9303-985d67edc7c3,Hannah Keith,1988-09-29,Female,1206507,Yes,239827,5-10%,Long Term,Saving for children's education,Self-Employed
+25663c71-a534-42df-a00f-5e484303e49c,Megan Williams,1971-09-10,Other,1794579,Yes,18524,5-10%,Short Term,Securing a comfortable retirement,Retired
+18b57303-c40d-439a-91ae-e322a464f79b,Darlene Johnson,1978-07-02,Male,1608006,No,364034,<5%,Medium Term,Investing in a business venture,Self-Employed
+4577dcb4-e02b-409f-a24c-fd8610d7bcf0,Teresa Hurley,1978-09-06,Male,1556791,No,495785,5-10%,Medium Term,Securing a comfortable retirement,Retired
+f7127cf8-e721-4a08-90e2-0239e7b6609d,Rachel Mills,1989-10-19,Female,460417,No,394130,>10%,Short Term,Building an emergency fund,Employed
+700165a2-bdcb-4f01-88f9-47d1a83b7d2b,Mark Rodriguez,1960-12-24,Other,1433859,No,407874,>10%,Medium Term,Investing in a business venture,Retired
+395bc33b-d211-40df-87c5-51d35a359ad4,Linda Santiago,2004-12-23,Other,60845,No,117136,<5%,Medium Term,Securing a comfortable retirement,Retired
+f3d7998b-b098-4c78-b195-052b0e5ad9f0,Carrie French,1988-10-30,Female,633260,Yes,180602,>10%,Long Term,Securing a comfortable retirement,Retired
+56ddba44-a28e-41a7-a4f2-7dbc5941bd8e,Crystal Johnson,1974-11-11,Female,1382981,No,152888,<5%,Long Term,Saving for vacation,Unemployed
+692fd7b5-a52e-4e06-a0ce-8a4e4ed9408f,Martha Collins,2004-02-09,Other,433413,No,185265,5-10%,Long Term,Saving for vacation,Employed
+61022aea-3d52-4e61-9aed-f2d41ee715fe,Angela Smith,1962-10-05,Female,1993177,No,116333,5-10%,Medium Term,Saving for children's education,Employed
+4a44ab3e-b0b7-4222-bffe-c5a0cf2c4a50,Daniel Diaz,1980-01-26,Female,1645701,Yes,274435,>10%,Long Term,Investing in a business venture,Retired
+a266a2f0-072d-4727-b9e9-c25e95a6d2f3,Kelly Brown,1974-06-18,Male,1301673,No,85514,>10%,Medium Term,Building an emergency fund,Employed
+3e856d3b-cd1f-497e-8987-c8d2a545308e,Angela Rodriguez,1988-02-26,Female,270185,No,426171,5-10%,Long Term,Investing in a business venture,Employed
+001b48df-373c-4dbf-b90b-ab74aa7fbc54,Ashlee Gardner,1978-02-22,Other,880073,No,377134,<5%,Medium Term,Securing a comfortable retirement,Unemployed
+6c1f88ac-10b0-45fe-8b29-1f1b93aaae4a,Mr. William Griffin,1999-09-14,Other,1888503,Yes,323822,>10%,Short Term,Paying off college debt,Employed
+db0c01e8-1eff-4843-bdbb-e89ee1be874a,Jimmy Hawkins,1999-11-06,Male,80795,No,449795,>10%,Medium Term,Saving for children's education,Unemployed
+b8d6b30e-2b22-443c-8a57-3676736b6cf7,Mary Ritter,1967-09-13,Female,609014,Yes,65056,>10%,Long Term,Building an emergency fund,Unemployed
+51ce835c-bfad-4471-af26-758d9a2e55b2,Jessica Nelson,2000-10-21,Male,1582295,No,57955,>10%,Long Term,Paying off college debt,Unemployed
+1b535521-9fa1-47e8-9407-d88e2efa3035,Kelli Sullivan,1965-08-31,Other,969649,Yes,211529,>10%,Short Term,Investing in a business venture,Retired
+4baa1c82-0c2f-4068-ac14-dbba2379d0da,Kathleen Bolton,1979-07-29,Male,264594,Yes,238169,5-10%,Long Term,Building an emergency fund,Employed
+fe4e3bb1-50c9-4b09-94e9-73a5772525f7,Zachary Brooks,1987-02-25,Male,1834704,No,353809,>10%,Short Term,Investing in a business venture,Unemployed
+482d16ad-5061-465e-a7a0-5d12dc4121f1,Christie Kirk,1974-11-24,Male,815100,No,193814,>10%,Medium Term,Securing a comfortable retirement,Employed
+d3452cde-5eaa-4897-bef4-55f032c63a62,Deborah Edwards,1992-12-20,Female,685194,Yes,194112,<5%,Medium Term,Investing in a business venture,Unemployed
+9864f2d1-2f7d-44a1-8c6b-58aa8f855734,Dr. Alexander Wilson III,1982-04-15,Male,561890,No,101559,>10%,Long Term,Paying off college debt,Self-Employed
+585adacc-8a28-4cba-b814-4739598855c6,Rebecca Stevenson,1995-02-06,Female,1394566,Yes,53095,5-10%,Short Term,Building an emergency fund,Unemployed
+c1ab6c6a-75e7-4f44-b591-ca1e88fbfc63,Laura Dudley,1984-07-17,Female,1637430,Yes,383992,<5%,Medium Term,Saving for children's education,Retired
+03b8498a-96ab-4fd8-836f-4ed649c77de5,Leslie Hart,1969-01-25,Female,135406,Yes,207787,>10%,Long Term,Paying off college debt,Unemployed
+42d84255-0896-4803-ae17-507f0123a206,Tyler Briggs,1976-09-15,Female,1360820,Yes,128532,>10%,Medium Term,Saving for vacation,Employed
+5691cb95-1de1-4d42-bd4c-051d4c006025,Scott Martin,1998-02-17,Female,1053654,No,148084,5-10%,Long Term,Saving for vacation,Unemployed
+c6795f45-e691-4aec-9839-2f3128459fe8,Lance Chapman,1972-11-29,Female,1179976,Yes,8259,5-10%,Short Term,Building an emergency fund,Unemployed
+7479acb3-d6c4-4c61-9883-3c184fa584e8,John Evans,1997-08-02,Other,939676,Yes,365044,5-10%,Short Term,Securing a comfortable retirement,Unemployed
+e35a32fa-8b7b-4d86-8639-b0f6842ab82e,Mark Flynn,1986-05-13,Other,1123159,Yes,433668,>10%,Medium Term,Paying off college debt,Retired
+afc51188-c3f8-4585-9f0d-dff7814cf3e7,Alice Hurley,2000-01-19,Male,1552853,Yes,313536,>10%,Long Term,Securing a comfortable retirement,Unemployed
+21ea57c9-4584-4233-b22e-31b3ac1ab23f,Dr. Courtney Williams,2002-03-19,Female,400903,Yes,197137,5-10%,Short Term,Saving for vacation,Unemployed
+39f03367-16ec-41bc-95a3-2e4b784e39a8,Garrett Lynch,1990-01-12,Female,1546634,No,76191,>10%,Short Term,Saving for children's education,Employed
+06e41f7a-8ca3-4d75-8cf9-611e255c1d0b,Sergio Griffin,1996-01-28,Female,560906,Yes,333994,5-10%,Medium Term,Buying a house,Employed
+d42e5146-0812-4371-b080-72e7a1e03faa,Justin Peterson,1962-01-13,Other,245620,No,54533,<5%,Medium Term,Investing in a business venture,Unemployed
+4c76316c-31f6-4992-9ef6-5216eff5f745,Ashley Roberts,1983-09-10,Female,1330839,Yes,5301,<5%,Short Term,Buying a house,Unemployed
+b495336d-24a0-43c1-9329-1f64fb178c42,Christine Morrison,2004-05-18,Female,329750,Yes,363877,>10%,Long Term,Building an emergency fund,Employed
+080e1821-e967-40dc-8e39-00447638cb1b,Bethany Mendez,1960-11-15,Male,882207,Yes,417702,5-10%,Long Term,Buying a house,Self-Employed
+ace4e850-76c8-409c-8861-c283c6fa259e,Sylvia Meyers,1985-07-21,Male,1808519,No,397281,<5%,Long Term,Paying off college debt,Unemployed
+1f3e3e7b-a2f0-4d49-84aa-e95023c7f18b,Brent Moore,1965-11-18,Other,1975634,Yes,273184,<5%,Short Term,Paying off college debt,Employed
+1a831fcc-e8c5-4dce-a8c5-382ce65ea077,Dr. Matthew Middleton DDS,1962-01-22,Other,1282576,Yes,77904,<5%,Short Term,Securing a comfortable retirement,Employed
+7cccec6f-467b-4d5b-86f0-48cb4b1c09d4,Michael Obrien,1982-12-10,Female,538479,Yes,199941,>10%,Long Term,Saving for children's education,Unemployed
+f75ca092-6773-445e-ac7c-b69d04d7ec71,Hayley Conner,1963-06-27,Female,1205105,Yes,17924,>10%,Long Term,Securing a comfortable retirement,Retired
+1dada320-206f-4266-adfe-14365999e233,Michelle Herring,2000-09-27,Male,181579,Yes,93326,5-10%,Medium Term,Buying a house,Employed
+ad9535b8-834a-4826-a1bf-624e912b1076,Vincent Gomez,1973-06-16,Other,992665,Yes,29942,>10%,Long Term,Investing in a business venture,Self-Employed
+41e1dd86-6163-4bee-a41e-4fd73ad29067,Kevin Larson,1967-03-24,Male,1003314,Yes,117796,<5%,Short Term,Buying a house,Self-Employed
+af8f97ed-283e-4859-82e2-6d09603e033a,Tonya Chan,1990-02-26,Male,186573,No,284786,5-10%,Long Term,Saving for children's education,Self-Employed
+cfa2f8d8-e5a1-4044-9abf-28c9b9409c1d,Sean Chandler,1996-10-10,Female,300676,No,246258,>10%,Short Term,Investing in a business venture,Retired
+6b880bed-aac9-4fd1-94aa-c530e2408285,Mr. David Brown,1979-11-29,Other,504171,Yes,324450,>10%,Short Term,Building an emergency fund,Employed
+d6508a78-c88d-4fcf-8fe0-79262b03f818,Ariana Kerr,1962-11-06,Female,1560773,Yes,439286,5-10%,Short Term,Buying a house,Unemployed
+6ef2f357-426d-48c9-8106-c653b499fe1d,Joseph Torres,1973-04-14,Male,1391729,Yes,44554,>10%,Short Term,Saving for children's education,Self-Employed
+d3c483c0-1699-49fa-b0de-eea8f7f8b779,Johnny Johnson,1975-07-12,Male,995665,Yes,335631,>10%,Short Term,Saving for children's education,Employed
+0554b9fa-59b4-4ad9-9564-799e1bd9405b,Christopher Garcia,1999-07-25,Other,1820499,Yes,203981,5-10%,Long Term,Saving for vacation,Retired
+78cd118b-ccda-415c-a08c-2086caec32e2,William White,1978-05-04,Other,859161,No,183122,5-10%,Short Term,Investing in a business venture,Retired
+649b3753-e1d6-4cf5-9344-100b9572a4b5,Sarah Schmidt,1975-06-11,Other,283688,No,40178,<5%,Medium Term,Buying a house,Self-Employed
+f4f2056b-e470-4d98-863a-7d515bb95c4c,Kristina Lewis,1995-11-04,Female,1839377,Yes,28388,>10%,Long Term,Investing in a business venture,Retired
+d6e89c58-d7af-4651-86ae-1d38a94eee77,Jessica Turner,1976-08-23,Female,215181,No,346380,5-10%,Medium Term,Building an emergency fund,Self-Employed
+4e76caf7-79aa-4f25-82da-a12802ff9857,John Miller,2004-02-19,Male,1057171,Yes,470894,>10%,Short Term,Buying a house,Self-Employed
+ba162f06-8a92-4ebc-aca3-e15e30f059d9,Jesse Ware,1992-02-04,Other,211689,No,312769,5-10%,Medium Term,Building an emergency fund,Unemployed
+1bf3b530-eca5-4089-9afa-1970018a3869,Brian Nichols,1979-05-28,Female,1299014,No,209909,5-10%,Medium Term,Buying a house,Employed
+03fa20dd-002e-4e37-9d18-9141f729e15e,Sarah Ruiz,1964-09-09,Female,1010937,Yes,68817,>10%,Medium Term,Investing in a business venture,Unemployed
+e5d16d71-a31f-4281-8088-451e4f29a765,Gabriella Foster,1968-02-20,Male,450279,Yes,389579,>10%,Short Term,Investing in a business venture,Retired
+12bf02b2-deb8-43d5-bc91-7fa9724df303,Heidi White,1970-04-08,Male,1134968,Yes,138689,>10%,Long Term,Building an emergency fund,Self-Employed
+a6f1be1e-05a2-4b69-8c28-ed64f8fb0742,Nicole Green,1966-08-14,Female,829848,No,309975,5-10%,Medium Term,Buying a house,Retired
+4a4689db-0d38-4cd6-8998-5a90cf9f16f1,Jenna Brooks,1973-07-08,Other,1023366,Yes,128625,5-10%,Medium Term,Investing in a business venture,Employed
+dd248d74-ed2e-48ee-88e5-ee1e254bbc4a,Patricia Edwards,1960-08-19,Male,705145,Yes,465074,<5%,Long Term,Buying a house,Retired
+ee67b49c-2423-4925-ba42-8e0a2a29e22e,Debra Deleon,1983-12-17,Other,221008,No,30317,5-10%,Short Term,Building an emergency fund,Retired
+c5de0e0c-2a12-4b12-a644-339df88d674f,Stephen Warner,1996-10-11,Female,889703,Yes,97409,5-10%,Medium Term,Buying a house,Self-Employed
+478fb1e7-8a5f-44db-8f03-70ce03978f5c,Dr. Erica Bradley,1960-11-06,Female,1466105,No,381518,>10%,Long Term,Securing a comfortable retirement,Employed
+6b24a82c-8677-4c35-8e71-a5e28ec9cda8,Colton Stewart,1963-05-10,Female,438714,Yes,278196,>10%,Short Term,Saving for vacation,Self-Employed
+c8c6ab76-4417-4733-a454-92126de84830,Kevin Moreno,1969-11-11,Other,1341778,Yes,260867,<5%,Long Term,Investing in a business venture,Self-Employed
+e7e3285c-4225-4df5-9b63-7716a392cb73,Angela Sanders,1976-02-11,Male,1904834,No,398113,>10%,Medium Term,Saving for children's education,Employed
+fda8e9a5-1b81-4098-8782-a9bef45b7eb6,Michael Bates,1999-04-02,Other,901578,Yes,219615,>10%,Long Term,Building an emergency fund,Unemployed
+44e72bab-0376-4c47-bcf9-7d9f069b2f2f,Diane Wong,1964-09-26,Female,1210723,Yes,334694,5-10%,Long Term,Building an emergency fund,Retired
+74de1a92-c72a-48c1-936f-5c4c1eb51dd3,Brianna Sherman,1968-01-02,Female,1660609,Yes,29966,>10%,Short Term,Saving for vacation,Retired
+6e0eeeef-8a3c-459d-8eb7-22621671d16f,Kirk Mcclain,2000-05-25,Male,398034,Yes,380135,<5%,Medium Term,Saving for children's education,Unemployed
+e508628f-980a-4243-a4e1-2d11778e5718,Cynthia Ryan,2001-06-23,Male,1384370,Yes,317873,5-10%,Long Term,Securing a comfortable retirement,Employed
+9c28babe-7336-4c08-91c0-00d24d50ed04,Sabrina Moore,1999-08-08,Male,1484201,Yes,176637,5-10%,Short Term,Saving for children's education,Employed
+83cd77ec-0b91-4fa3-8736-472039ed9f79,Brian Crane,1994-01-28,Female,1463575,Yes,161873,5-10%,Short Term,Securing a comfortable retirement,Employed
+01b649a7-23ab-4f36-a268-d6fe348ff0ce,Kimberly Johnson,1996-06-26,Other,755876,No,229553,<5%,Short Term,Building an emergency fund,Self-Employed
+068812bd-e316-41e9-be35-4625d55fd0dd,Allison Townsend,1964-12-03,Other,603551,Yes,496854,5-10%,Short Term,Paying off college debt,Unemployed
+99187110-9aa1-44be-97fc-a9c1c71cdfb4,Michelle Johnson,2000-03-29,Other,1672969,Yes,83068,<5%,Long Term,Paying off college debt,Unemployed
+0dc6a8c0-5228-496e-bb66-b57cc79450ee,Tamara Garrison,1977-01-21,Other,1107266,Yes,35242,<5%,Short Term,Paying off college debt,Employed
+213fcac3-4034-4624-8aec-af65a44a25a3,Steven Roth,1975-12-10,Other,1903864,No,389762,<5%,Medium Term,Saving for vacation,Retired
+e2dbb8a9-0c18-4e88-bc37-8710ef7530b1,Jill Bates,1997-06-05,Male,1826287,No,125733,<5%,Medium Term,Investing in a business venture,Self-Employed
+2cd7f453-517c-48d0-8f93-bda0b02896d3,Crystal Phillips,1978-11-18,Male,512795,No,439463,<5%,Short Term,Securing a comfortable retirement,Retired
+ac760b1b-0420-4264-a9a9-dee9533b27d1,Tina White,1977-08-24,Female,655518,Yes,312434,<5%,Short Term,Building an emergency fund,Self-Employed
+0c371f0e-d4ef-44cc-b45b-4002890354b9,Christopher Hill,1978-02-13,Other,746652,No,36469,5-10%,Short Term,Paying off college debt,Employed
+ae14d80e-4f20-425b-b030-c314e0629e2b,Dr. Gary Hamilton,1964-06-05,Male,425025,No,462116,<5%,Short Term,Buying a house,Employed
+e610a6fd-5c38-49f3-98c9-ee94679ded7b,Jason Bishop,2001-03-26,Male,1176293,No,453664,5-10%,Long Term,Buying a house,Self-Employed
+dd12c349-ba32-4c69-b56b-33959d89e527,Gary Perez,1959-11-10,Other,776065,Yes,52994,5-10%,Short Term,Paying off college debt,Self-Employed
+deb636ab-e211-4503-a87b-c6bdf24ea1a6,Tyler Wells,1960-05-19,Female,1253483,No,450012,>10%,Long Term,Securing a comfortable retirement,Self-Employed
+cc541c2a-67b8-4cc9-9187-36eb34484c16,Karina Hartman,1986-08-05,Other,764445,No,167674,<5%,Short Term,Building an emergency fund,Unemployed
+c1b6a3a6-4e90-4c97-80f8-66401fdd6f0e,Alexis Barker,1986-05-19,Other,1439286,No,141153,5-10%,Medium Term,Investing in a business venture,Self-Employed
+ef749662-de30-4e1d-ba05-515de1b4d785,Jeffrey George,1998-03-28,Female,863112,No,380103,>10%,Long Term,Paying off college debt,Self-Employed
+85ea2c7c-1dd6-45e9-ac93-5c857a33e536,Jason Thomas,1988-12-01,Female,446679,No,202175,>10%,Short Term,Buying a house,Self-Employed
+9664053f-b96a-4417-8631-162fc49080a0,Gabriela Green,1989-06-19,Female,324610,No,367358,<5%,Short Term,Building an emergency fund,Retired
+52288ebd-c362-4788-aeb0-bd57b95770d0,Dalton Lambert,2002-08-29,Female,297854,Yes,419002,<5%,Medium Term,Buying a house,Unemployed
+93e135a8-159f-4ad1-95fc-86018724efb8,Samantha Brock,1994-07-10,Male,940821,Yes,208029,5-10%,Medium Term,Saving for vacation,Employed
+9fc63ae4-7f0d-4e8c-96ed-3320f81aafe4,Kevin Gomez,1988-03-05,Male,384403,Yes,4942,5-10%,Long Term,Saving for vacation,Unemployed
+155e7e18-51d1-4cb4-81fa-ca23df0d2b5c,Jason Stephens,1972-10-15,Male,756983,No,105532,<5%,Medium Term,Saving for children's education,Retired
+df81356f-d61c-4bd5-ae6e-72f6facb7cf5,Rodney Taylor,1974-09-21,Female,1872947,No,288444,5-10%,Short Term,Paying off college debt,Unemployed
+ce88f3c0-8ccb-4d28-8a74-4a8daa9195cc,Rebekah Chandler,1971-08-16,Female,261344,No,389915,5-10%,Medium Term,Buying a house,Unemployed
+5a9bbc57-384f-410b-acfa-4a010719e964,Joseph Alexander,1978-07-16,Other,1068595,No,313581,<5%,Short Term,Saving for children's education,Self-Employed
+b34a180f-4ed6-401c-819c-4cf17b4d78ef,Jamie Gonzalez,1968-09-06,Male,438197,Yes,498284,5-10%,Long Term,Investing in a business venture,Self-Employed
+195b024e-2571-41b0-9c5f-ddd0244e911d,Barbara Ellison,1972-04-25,Other,175551,Yes,162792,>10%,Short Term,Buying a house,Retired
+297bf95d-f743-4ab0-90ef-4fcbe9b3af43,Erica Wilson,1997-11-10,Female,1116360,No,482719,>10%,Medium Term,Saving for children's education,Employed
+2996e84a-3a91-43f7-a6e4-05658c87cf52,Brandy Wilson,1979-10-14,Other,1984700,Yes,458362,>10%,Long Term,Saving for vacation,Retired
+739e6342-33d8-4406-a3eb-c32121b0240a,Daniel Snyder,1978-11-10,Other,931187,No,136933,5-10%,Medium Term,Investing in a business venture,Unemployed
+1a7ed5a9-36b2-47fa-acaa-b800ead78241,Allison Nelson,1973-05-02,Male,197436,No,49575,5-10%,Long Term,Paying off college debt,Employed
+0bd374a9-08d4-494c-a6b3-3c8c6a066975,Sandra Wu,1997-04-12,Female,1745643,No,443687,>10%,Long Term,Investing in a business venture,Unemployed
+146b4350-04a3-477f-8103-c13de025eee4,Michelle Davis,1972-08-13,Male,1434034,Yes,440048,5-10%,Medium Term,Saving for children's education,Employed
+05ba8513-e0da-4d18-99e7-d8e754b043ac,Betty Ayala,1983-06-30,Male,458727,No,211433,5-10%,Medium Term,Investing in a business venture,Self-Employed
+7b1a1fbd-7ce6-454f-b3ca-68e2d567d896,Bianca Perez,1976-09-07,Male,1568572,No,460335,5-10%,Short Term,Buying a house,Unemployed
+6b4779c6-deca-4e15-9471-2311840374d6,Abigail Wilson,1977-09-01,Other,1613426,No,85472,>10%,Medium Term,Buying a house,Employed
+ef2a0184-7ca1-4615-a653-96986ec9502c,Alison Mays,1988-11-09,Female,781355,Yes,495151,<5%,Long Term,Building an emergency fund,Self-Employed
+fa8f1c8a-822d-4c61-b278-71fd94dd3d4f,Kristen Terrell,1998-04-04,Female,1982100,No,243378,<5%,Medium Term,Building an emergency fund,Self-Employed
+af861145-60d2-4b6c-accb-b7cc04558106,Christopher Petersen,1975-09-06,Other,1154739,Yes,32663,5-10%,Medium Term,Saving for vacation,Unemployed
+1b881bda-0477-4192-b63a-6b7568214c78,John Edwards,2001-04-26,Male,261624,No,31012,<5%,Short Term,Building an emergency fund,Employed
+d2a1b903-c548-4a38-9ce6-4a1560f3b0ac,Alicia Diaz,1999-09-25,Female,802252,Yes,322367,5-10%,Long Term,Saving for vacation,Self-Employed
+53d4b6a9-40d5-4e29-9671-23979a7b7429,Andrew Thomas,1969-02-26,Male,262153,Yes,176579,5-10%,Short Term,Securing a comfortable retirement,Retired
+9cac3f48-375c-483e-87ff-3966f00b802b,Jennifer Juarez,1999-04-16,Female,92653,No,57589,>10%,Medium Term,Investing in a business venture,Self-Employed
+c3ed5479-73d5-4905-a23f-55a8594fdaec,Albert Mccarthy,1997-11-05,Male,36556,Yes,66837,5-10%,Medium Term,Building an emergency fund,Retired
+a764ade0-69bc-4721-95be-1ac1c9b4e0cc,Pamela Miller,1975-05-16,Other,455703,No,464116,<5%,Medium Term,Building an emergency fund,Self-Employed
+1e1b414a-1ba6-4506-8725-6cdf5d908742,Lisa Harper,1972-06-13,Male,382182,No,32332,<5%,Long Term,Securing a comfortable retirement,Self-Employed
+18f4f47c-a332-4e84-9b32-5b42afc94b31,Michael Richardson,2005-11-18,Female,1522313,Yes,480200,>10%,Medium Term,Buying a house,Unemployed
+c4c41c18-e65f-4302-a567-52e60c1a8ca5,Timothy Wood,1962-09-23,Female,1281050,Yes,477923,>10%,Long Term,Paying off college debt,Self-Employed
+fc39b7dd-34a9-4de8-b652-620478853721,Jon Price,1995-01-19,Male,1988560,Yes,497983,<5%,Long Term,Securing a comfortable retirement,Retired
+9fd44f62-b923-4b7f-975f-4b9b70e54acd,Anthony Scott,1985-02-25,Female,1072150,No,433644,5-10%,Medium Term,Buying a house,Retired
+5b58020a-8a05-47d2-8047-785af742006f,Caroline Russell,2002-05-10,Female,926572,No,260520,>10%,Long Term,Paying off college debt,Unemployed
+aa489d4c-2700-4d1d-b32a-b85d7b7645f7,Alexandria Simpson DVM,2001-05-31,Other,1897948,No,402555,>10%,Long Term,Saving for children's education,Self-Employed
+528d0405-a0de-4074-b72e-448b31bf7969,Annette Landry,1978-05-08,Male,67461,Yes,137853,>10%,Medium Term,Paying off college debt,Employed
+a84a4efb-93d1-461a-a613-73bf8d67c456,Cheryl Macias,1971-03-28,Male,1956131,No,479647,>10%,Long Term,Saving for children's education,Self-Employed
+9d0ca3be-a9e9-471c-94c4-91846bc7ddaa,Edward Durham,1963-12-22,Other,1681159,No,443558,5-10%,Medium Term,Building an emergency fund,Retired
+bcc8dd1f-b91b-4e99-bd15-9ed04a20060d,Amy Casey,2001-09-30,Female,447909,No,217000,>10%,Medium Term,Securing a comfortable retirement,Retired
+18bc3342-53ea-4f54-bf94-d2c744f7b708,Christina Ponce,2000-01-26,Male,408596,No,204608,>10%,Medium Term,Paying off college debt,Employed
+507d59b9-c8c1-4e24-bc8a-a1d9d81bbfcc,Cynthia Bean,1984-05-18,Other,769083,Yes,450862,5-10%,Long Term,Building an emergency fund,Self-Employed
+bd689655-0647-4c5e-8496-4a096b8f21d3,Drew Powell,1999-01-14,Male,1325740,Yes,133282,<5%,Short Term,Securing a comfortable retirement,Employed
+9bb023d9-ecce-4f25-834b-de4ab72e4644,Robin Walker,1973-05-14,Female,252928,Yes,299521,5-10%,Medium Term,Paying off college debt,Unemployed
+8660c912-52ec-4489-955f-73755388e35e,Sarah Delgado,1961-11-27,Male,1186661,Yes,426014,<5%,Medium Term,Securing a comfortable retirement,Employed
+434cbe58-700b-498f-a63d-b9c83afd8df4,Terri Jones,1981-03-26,Male,1972467,Yes,135969,<5%,Short Term,Paying off college debt,Employed
+dbc814af-dd28-4f5d-a5f3-71beefd4e749,Terri Frye,1987-02-12,Other,1381618,Yes,496162,5-10%,Short Term,Building an emergency fund,Employed
+d4a90a69-f01d-455f-aebb-98dfabdcbbdc,James Hanson,1975-12-11,Male,876260,No,396632,5-10%,Medium Term,Securing a comfortable retirement,Unemployed
+cb1a0df7-b17a-4c11-bd04-8e524d83f36f,Luis Green,1976-05-20,Other,534649,Yes,61597,5-10%,Short Term,Saving for children's education,Self-Employed
+3204aa3b-f385-457b-a218-937aeb552fed,Renee Bridges,1959-08-01,Other,132696,No,471704,<5%,Short Term,Saving for vacation,Unemployed
+e5e16a8e-2488-48f0-b4db-0b2167d5a473,Stephen Thompson,1977-10-18,Male,1615271,Yes,194952,>10%,Long Term,Paying off college debt,Self-Employed
+8eabcbd3-590e-49a2-8542-dcec2f9f6b78,Sierra Roberts,1979-02-26,Female,1882016,Yes,236344,<5%,Medium Term,Saving for children's education,Retired
+4e62e5e7-6e30-48a3-be8c-86a21a37ee2d,Leonard Anderson,1978-04-08,Female,633346,Yes,3733,>10%,Short Term,Saving for children's education,Unemployed
+3c31c69b-bb4b-4f56-8c3d-4f5322f6b85c,Christy Durham,1980-03-10,Female,1071049,Yes,252204,<5%,Long Term,Buying a house,Retired
+98d84626-5c78-421b-a4ab-1a74bd7d5ba6,Emma Riley,1994-07-12,Male,460586,No,161363,>10%,Short Term,Investing in a business venture,Employed
+176f2b45-fd0a-4b7d-a8cf-9ede662f014c,Rhonda Johnson,1967-06-07,Female,1223288,No,418731,<5%,Long Term,Saving for children's education,Unemployed
+df5e37b5-f662-427d-9511-77a877e1a4a8,Shane Dominguez,1968-05-24,Male,151222,Yes,475680,5-10%,Medium Term,Saving for vacation,Retired
+b6587f0e-6837-4f3d-8f0e-fa5c6614d3d6,Andrea Franklin,1969-05-16,Other,275360,No,33874,5-10%,Long Term,Investing in a business venture,Retired
+8d6392f3-ea10-49c2-aabf-722e8ba8230e,Robert Williams,1974-03-30,Other,1702934,No,210688,<5%,Medium Term,Buying a house,Retired
+f9c36a89-c68c-4c49-b19e-b27e5ce8df6d,Janice Webster,1983-02-27,Other,115943,No,357674,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+b6f2717c-a7ea-4bbd-b9ad-9cd13b1c7314,James Jenkins,1976-01-16,Female,1235660,No,85399,<5%,Long Term,Building an emergency fund,Unemployed
+6cd7a25b-c6e7-4218-a008-dd0e02e601e8,Anthony Miller,1993-07-03,Other,104029,No,41646,5-10%,Long Term,Investing in a business venture,Employed
+e2c86d6e-9b42-4001-acee-6752ff13fed9,William Rodriguez,1970-10-22,Male,817807,No,37945,<5%,Long Term,Paying off college debt,Employed
+8cbd6e2b-8ee3-4566-861d-132cedfc6c6c,Ronald English,1968-05-31,Other,40791,Yes,60832,>10%,Long Term,Saving for vacation,Unemployed
+8bcfbee2-c011-4ad9-8e10-263a185933de,Jessica Price,2003-07-29,Female,912520,No,124534,<5%,Long Term,Paying off college debt,Unemployed
+0f2d10d1-ed02-4bc7-b776-bf6a81e45928,Ebony Hutchinson,1972-01-14,Male,1707220,No,495456,5-10%,Short Term,Paying off college debt,Unemployed
+e626645b-ba62-417c-97bd-c68da3454607,Bruce Avila,1970-02-03,Male,696705,No,131134,<5%,Short Term,Building an emergency fund,Employed
+3d112288-8603-4ee7-bff0-70bff885b098,Patricia Hunt,1997-10-21,Male,1508343,Yes,114005,5-10%,Long Term,Investing in a business venture,Retired
+baf06f8b-3a95-493a-8b67-e06339f0be7b,Kayla Jones,1985-05-08,Male,420289,Yes,493534,>10%,Short Term,Securing a comfortable retirement,Employed
+b930c82e-61ff-4f47-a139-3bda826b89e0,Michelle Brown,1972-04-22,Female,1262968,Yes,231009,>10%,Medium Term,Paying off college debt,Self-Employed
+551a749d-8780-4678-96e0-5277fe243b40,Robert Lambert MD,2002-01-10,Other,707321,Yes,49462,>10%,Long Term,Investing in a business venture,Retired
+496e6f43-75cf-4ec1-97ab-06e0fc2898f0,Mark Nicholson,1985-09-06,Female,515471,Yes,275997,5-10%,Short Term,Saving for children's education,Unemployed
+fc6284a5-79f7-4d45-9e6e-e8dad8db8c0d,Norma Bowman,1960-12-09,Other,935233,No,417206,>10%,Long Term,Saving for children's education,Unemployed
+8ad442e7-d0ac-4374-9c00-5077af26fd55,Christine Johnson,1984-01-15,Female,326301,No,243653,5-10%,Medium Term,Paying off college debt,Employed
+6753654d-fcfb-4d5f-baad-a432d729a1e5,Jeremy Guzman,1993-08-23,Male,846669,Yes,25718,<5%,Short Term,Paying off college debt,Employed
+4f07c682-ae10-4deb-a6d0-11b8ef9e300f,Kevin Vaughn,1983-02-15,Male,581565,Yes,319312,>10%,Short Term,Building an emergency fund,Retired
+515e02cc-f551-4c14-b842-56fa09e6f71f,Sandy Ross,1972-01-03,Female,1725656,Yes,27202,>10%,Medium Term,Building an emergency fund,Retired
+8452d46e-a2a1-4315-b151-4d69d71ce885,Amber Williams,1993-08-30,Other,1181842,Yes,468954,<5%,Short Term,Saving for vacation,Retired
+ce1ff742-ed4f-4307-9355-9407cc2733f5,Jacqueline Watson,1985-11-29,Male,821564,Yes,468755,>10%,Medium Term,Saving for children's education,Self-Employed
+70be0c26-fbf6-4b81-8077-7d518f55f4ed,Michelle Roberts,2000-01-12,Male,1307769,No,242242,>10%,Long Term,Buying a house,Employed
+06eb73ca-d070-47be-98a1-ab4dd4198049,Madison Hughes,1991-06-23,Other,388020,Yes,39312,<5%,Long Term,Saving for vacation,Employed
+5c84eabc-12cf-4196-90ba-859a7608b981,Emily Davis,1996-07-21,Male,931787,Yes,464149,5-10%,Long Term,Saving for vacation,Unemployed
+c679102c-c1ee-4843-ac24-af2a9f7d3545,Marcia Davidson,1999-12-21,Male,1716007,No,253884,>10%,Long Term,Saving for vacation,Employed
+2902c9d8-52d8-4b71-81f1-23c41c759353,Nicole Martinez,2000-10-27,Female,520017,Yes,237926,>10%,Short Term,Saving for children's education,Self-Employed
+ed67ee7b-0835-4dc6-83a3-3146eb83d0fa,Brandon Meyer,1961-03-24,Other,336518,Yes,107358,<5%,Short Term,Saving for children's education,Unemployed
+18e056b9-653c-458d-8da8-9ad4691d76e6,Sharon Mcbride,1971-06-11,Other,1345466,No,214292,>10%,Short Term,Buying a house,Unemployed
+8f5fc68f-1f90-45d0-af91-f1d19dc8b319,Ashley Cruz,1976-11-29,Female,800627,Yes,339791,>10%,Medium Term,Saving for vacation,Self-Employed
+0ca3cf7e-2092-493d-bd8c-70b6f4df7c1e,Donald Wright,1959-07-29,Male,1974337,No,281091,5-10%,Long Term,Building an emergency fund,Unemployed
+82f07735-f786-4365-ac07-c030ed2c91ab,Scott Glover,1986-11-04,Female,346212,Yes,160900,>10%,Short Term,Buying a house,Unemployed
+afccaddc-9393-48e8-997a-8b3dca0a3947,Joshua Morales,1965-04-23,Male,1428076,No,246120,<5%,Medium Term,Investing in a business venture,Employed
+06e938df-7afa-4a3f-8618-6f1dd36fe62b,Lindsey Guerra,1962-07-27,Male,689057,No,290720,<5%,Medium Term,Saving for vacation,Unemployed
+c9cd4985-6533-49a5-8c95-380b6d697742,Emily Pearson,1981-12-15,Other,973475,Yes,260381,<5%,Medium Term,Investing in a business venture,Unemployed
+99ebd928-8b43-4617-b2b6-0d59fd2c2c09,Eduardo Kaiser,1992-04-17,Male,1157056,No,129614,<5%,Medium Term,Paying off college debt,Unemployed
+3f5322bc-48bc-4d8d-a0e1-63b8bc259318,Duane Harrison,1965-07-12,Male,20289,Yes,305781,>10%,Short Term,Securing a comfortable retirement,Retired
+93439ce2-e15a-431e-9117-1cc530e0325a,Kathleen Morris,1980-12-11,Other,910013,Yes,53274,5-10%,Medium Term,Securing a comfortable retirement,Employed
+964b2e02-df0d-4511-bfe2-ca2df5604207,Patrick Goodman,1972-02-16,Other,1443691,Yes,245884,5-10%,Long Term,Securing a comfortable retirement,Retired
+a2b5561b-4b67-4d8c-b79e-ab4634093bcb,Donna Allen,1976-04-17,Female,1569753,No,298320,5-10%,Short Term,Paying off college debt,Employed
+251aee86-7763-42d8-a907-39920c733a69,Toni Dillon,1996-12-05,Female,177891,Yes,180452,>10%,Long Term,Paying off college debt,Unemployed
+20e5e450-2c2f-4675-a4e9-b12c5c7185cb,Diana Buck,1990-09-02,Female,1481365,Yes,137901,<5%,Short Term,Investing in a business venture,Self-Employed
+c53bfafc-c132-40b7-8148-128acb6d5033,Kevin Peck,1992-03-20,Male,1844211,No,105142,<5%,Medium Term,Paying off college debt,Retired
+f4aa2b2f-2c98-4fc9-b114-faa08b7769b1,Beverly Morris,1986-08-31,Male,1106800,Yes,170849,<5%,Short Term,Securing a comfortable retirement,Self-Employed
+f92dd449-9d3d-4f3a-ba7c-eddbbf28fda6,Ryan Payne,1966-04-20,Female,1563739,Yes,309125,<5%,Medium Term,Saving for vacation,Self-Employed
+090c795d-6588-4e0e-808d-d28c109d0052,Ms. Gabrielle Ford,1996-07-20,Female,1472446,No,6552,>10%,Short Term,Buying a house,Employed
+6baa91e2-e6c2-4146-afe4-28e603089b08,Anthony Jimenez,1986-02-25,Other,454027,No,282850,>10%,Long Term,Paying off college debt,Retired
+8c935435-e690-414b-810a-142df341050c,David Brooks,1980-07-19,Female,1020338,No,125281,5-10%,Medium Term,Investing in a business venture,Self-Employed
+3bf2406d-7e68-4fcc-8fff-a78339592215,Christina Garcia,1983-07-27,Male,1756569,No,338295,>10%,Short Term,Paying off college debt,Unemployed
+335dd18b-d024-4c85-afe9-5e3b29247b94,Nancy Cole,2003-08-27,Female,1243219,No,356156,>10%,Long Term,Building an emergency fund,Self-Employed
+e40e31fa-055a-486e-ab62-07a12a144e0a,Mrs. Nicole Baker DDS,1974-03-06,Male,512730,No,454247,<5%,Short Term,Saving for children's education,Unemployed
+c8b7778e-625b-4c3e-ab72-cde29041aa56,Robert Green,1971-05-22,Male,1331213,No,46120,>10%,Medium Term,Buying a house,Self-Employed
+886c8adf-a460-4369-911c-6519872dd447,Gina James,2006-03-22,Male,371466,No,402997,>10%,Long Term,Investing in a business venture,Self-Employed
+6cc23fdd-0d95-494d-a836-ac7fa13da9b5,Ruben Peterson,1984-07-11,Other,1701601,No,328741,5-10%,Short Term,Paying off college debt,Unemployed
+1a985ae2-f97b-42fb-b718-906ab7dc6920,Antonio Diaz,1981-07-29,Male,535235,No,104725,<5%,Short Term,Investing in a business venture,Self-Employed
+15a3c367-05b9-4828-9ce6-4561b0e20113,Monique Pitts,1967-03-10,Female,985941,No,372832,5-10%,Long Term,Saving for children's education,Self-Employed
+df7ec9e0-50bf-41da-82af-2414e3d84db9,Sheri Campbell,1985-09-16,Male,602947,No,497605,<5%,Short Term,Buying a house,Self-Employed
+d40ef91a-d797-49e8-bf1d-fe0b9ff43e39,Hannah Anderson,1993-11-14,Female,1536169,Yes,380022,5-10%,Long Term,Saving for children's education,Unemployed
+b05e6991-3cb9-44ff-8173-f95a49695c36,Morgan Mcclain,1973-01-25,Other,1822669,No,264625,<5%,Long Term,Paying off college debt,Retired
+1095c7ad-28fa-4265-aab5-6c0524e371c7,Steven Schmidt,2003-01-14,Female,1461671,No,470489,<5%,Long Term,Saving for children's education,Unemployed
+f6941dc9-864b-446a-8076-9a4e1e834ada,Nicole Nguyen,2006-04-11,Female,1853866,Yes,367795,>10%,Medium Term,Building an emergency fund,Unemployed
+65cd7e95-261e-44dc-a174-17d26ab8c2ed,Miguel Gates,1988-12-15,Male,1966711,Yes,107907,>10%,Long Term,Saving for vacation,Self-Employed
+65e372ae-ce23-4655-be2a-9e1ebbdf776c,Matthew Love,1984-10-25,Male,1196056,No,403136,>10%,Medium Term,Investing in a business venture,Self-Employed
+a4c2d7b2-22dd-4d55-989b-2528f70c9c46,Christine Moore,2000-05-17,Other,795994,No,85619,<5%,Long Term,Saving for children's education,Employed
+7d31b58a-d2e2-4078-b936-2bc79872a428,Melissa Smith,1999-08-18,Female,911318,Yes,474500,<5%,Long Term,Paying off college debt,Unemployed
+1cfa2f69-7fc4-47a9-9cc1-b65d8027cd20,Bridget Avery,1977-09-22,Male,738271,Yes,103902,>10%,Long Term,Saving for vacation,Retired
+b077631a-1573-4b89-b4cd-3963eccc5957,Andre Oconnor,1986-05-07,Other,1436606,Yes,324967,>10%,Medium Term,Saving for children's education,Unemployed
+37f26af0-0a39-4c13-8b40-a0f7b108f0ff,Jack Rodriguez,1968-12-03,Male,681653,Yes,443036,>10%,Short Term,Paying off college debt,Employed
+11fde6c0-a431-451e-922f-78d80ac4d1f0,John Patrick,1998-05-10,Female,1095474,Yes,293480,>10%,Short Term,Securing a comfortable retirement,Unemployed
+a63bf015-5c95-4119-aac1-a51a7fbf1ee1,Kathy Hampton,1991-01-24,Other,235396,No,329579,>10%,Short Term,Saving for vacation,Self-Employed
+81eaa77f-ac0d-4953-ac97-b0a24c1d3005,David Whitehead,1967-05-22,Female,70508,No,159478,>10%,Short Term,Securing a comfortable retirement,Self-Employed
+d201d06e-a0c8-431e-aca4-2899db8a09ee,Christine Hernandez,1984-02-11,Other,1660740,Yes,420265,5-10%,Medium Term,Saving for vacation,Employed
+e4341c1c-5004-4ebe-8ed6-4fe22a3e3dc9,Jason Lawson,1969-07-14,Other,623565,Yes,60205,5-10%,Long Term,Paying off college debt,Retired
+721224c7-ea4f-4af3-8892-96e6d2c25031,Sarah Wilson,1979-06-30,Male,118958,No,353341,5-10%,Medium Term,Saving for children's education,Self-Employed
+148a3ac1-835c-4464-8905-c6bb46634a0b,Vicki Calderon,1969-09-20,Male,382300,Yes,35691,5-10%,Medium Term,Saving for children's education,Self-Employed
+83631c6e-9c4f-4382-96ba-8536fe80f6cb,Cody Owens,1965-12-31,Female,1095684,No,325151,<5%,Short Term,Building an emergency fund,Unemployed
+f464a216-22d3-4488-b19d-f21b4ff3cff0,Chad Tran,2000-02-18,Other,185786,No,121210,5-10%,Short Term,Paying off college debt,Retired
+32ad49a1-9440-4cea-9c7b-d3270b8a1786,Krista Reynolds,1998-11-16,Male,156546,Yes,81456,>10%,Long Term,Saving for vacation,Self-Employed
+64aeede3-ef46-40cf-a620-fd99001d095e,Michael Rivas,1994-05-20,Male,1784683,Yes,368962,<5%,Long Term,Paying off college debt,Retired
+1ab75f16-7100-4fff-97a4-879cfbc5829a,Megan Chavez,1990-07-29,Female,586076,Yes,59717,5-10%,Medium Term,Building an emergency fund,Employed
+d19efb4c-62cb-432d-a652-c51fd5c93243,Anthony Turner,1986-04-08,Male,539263,No,257870,5-10%,Short Term,Saving for vacation,Unemployed
+0c7c4ccd-238f-46a4-bef5-dbba74229e6d,Marcus Wong,1977-10-16,Other,98948,Yes,434147,<5%,Medium Term,Saving for vacation,Retired
+5f3ef17e-65da-468b-a77d-0e84ed0e8556,Melissa Howard,1966-09-25,Other,1008705,Yes,247974,>10%,Short Term,Investing in a business venture,Unemployed
+bbe456a6-c433-46f1-842f-9d6b35fe70f5,Martin Lyons,1966-04-20,Other,475297,Yes,143656,<5%,Long Term,Buying a house,Unemployed
+58f53165-33e1-40dc-bc9a-f832ff93c29e,John Zavala,1964-03-12,Male,1052138,Yes,443561,>10%,Medium Term,Paying off college debt,Self-Employed
+f8dd2f50-2e39-4524-b819-ce4f7f31f5ed,Deborah Ferguson,1985-05-28,Female,891484,No,364622,5-10%,Medium Term,Securing a comfortable retirement,Retired
+a5546264-6532-458c-819f-b5a130a9da8d,Matthew Rodriguez,1994-09-05,Female,661183,Yes,443691,>10%,Medium Term,Paying off college debt,Unemployed
+e5954f33-e02a-4153-b42f-820f8d3a82bd,Brittany Gallegos,1997-03-09,Female,897647,Yes,446422,>10%,Short Term,Buying a house,Retired
+3e879801-2660-4bde-83d9-893571ab2615,Curtis Taylor,1975-10-12,Male,93143,No,1333,5-10%,Short Term,Saving for vacation,Self-Employed
+ebb0c11a-5d5c-474b-aa5e-c91c8987ac69,Ryan Hardy,1983-12-07,Other,906265,No,40154,<5%,Medium Term,Saving for vacation,Unemployed
+6e54d0b1-f384-414e-87fb-2dc9b494a13f,Courtney Ward,1966-05-06,Other,1477392,Yes,439665,5-10%,Short Term,Saving for children's education,Employed
+d5e959e1-8d04-4676-983e-4694372ff56f,Adam Day,1990-08-30,Other,896547,Yes,210295,>10%,Medium Term,Paying off college debt,Retired
+bf7999c8-60b1-4e7b-80a7-a8e76a0fedb2,Ashley Lawson,2002-05-12,Other,1756282,No,81580,<5%,Long Term,Securing a comfortable retirement,Self-Employed
+1e9a3cef-226d-460f-8e18-43530b5171ce,Amy Sanchez,1971-07-23,Other,781977,Yes,307680,>10%,Short Term,Securing a comfortable retirement,Unemployed
+026f8957-d8f4-4000-bcd2-144ecb49b4f5,Amy Stanley,1976-01-18,Female,263470,Yes,304420,<5%,Short Term,Investing in a business venture,Employed
+32ab8ea8-58d1-4ca7-add1-2bec7a0525c5,Daniel Hernandez,1959-12-30,Male,426060,No,6864,>10%,Short Term,Securing a comfortable retirement,Retired
+90abb563-435f-4177-a475-7052933acee3,Erin Murray,1989-05-22,Male,321001,No,22938,>10%,Medium Term,Paying off college debt,Employed
+cfa9aec9-fb09-4027-ab6d-368232b1fc89,Tammy Young,1993-06-01,Male,652813,Yes,1007,>10%,Long Term,Investing in a business venture,Retired
+d8bac59b-fa10-49f2-9abe-7e101ccc55cb,Tiffany Moore,1994-05-10,Female,1867619,Yes,143631,<5%,Medium Term,Investing in a business venture,Self-Employed
+edb19c8b-740d-41b2-8544-e5e4ddb1ee24,Destiny Bauer,1980-03-30,Female,37005,Yes,147218,>10%,Medium Term,Paying off college debt,Employed
+71306022-b4e9-42ec-8819-d7c6a46c24ef,Cindy Schroeder,1998-02-27,Male,1073995,No,257526,5-10%,Short Term,Paying off college debt,Self-Employed
+0b215dc5-d54e-4f8a-aaaf-383f9060b8e1,Sean Miller,1995-07-03,Other,1491631,No,261605,5-10%,Long Term,Securing a comfortable retirement,Unemployed
+3b4a7020-466f-4364-97b0-80db64810af9,Nicole Montgomery,1990-10-24,Female,1794367,Yes,270823,>10%,Long Term,Paying off college debt,Self-Employed
+f1375b57-ee41-4e1b-97ba-91367e695e41,William Chambers,1966-10-21,Other,66174,Yes,261919,>10%,Long Term,Saving for vacation,Retired
+caf58e1d-5960-4867-adc5-42b7bbc7bfb9,Peter Caldwell,1991-05-04,Female,1726908,No,244312,<5%,Medium Term,Paying off college debt,Unemployed
+e6d11a94-415b-4e40-b387-fa5785dc35b4,Matthew Mckinney,1991-08-22,Female,1722051,Yes,253078,>10%,Long Term,Paying off college debt,Retired
+a0dab068-8c61-46f5-9e9f-7ca60ecd4e7a,Brett Adams,1963-01-11,Female,1300329,Yes,412404,5-10%,Short Term,Investing in a business venture,Employed
+d965d348-205a-4c9e-b0c3-e68474da5510,Jerry Miller,1973-05-06,Male,1758419,Yes,369761,>10%,Short Term,Investing in a business venture,Self-Employed
+84e99931-2c28-44ce-9307-a4b467dbdd03,Francisco Sanchez,1968-04-25,Female,1034410,No,379354,5-10%,Long Term,Saving for children's education,Unemployed
+ce82c444-6bd2-4175-9c44-6d5f29e09f85,Roberto Newton,1962-08-24,Female,1808848,Yes,175480,5-10%,Short Term,Saving for vacation,Self-Employed
+e179b670-d49f-488b-b00b-70d3ce70a15f,Robert Shepherd,1963-10-23,Male,1852347,No,176168,<5%,Short Term,Securing a comfortable retirement,Retired
+59e6e1a8-aa25-4b53-9155-a299ffca6c79,William Carrillo,1992-05-12,Female,1305204,Yes,12561,5-10%,Medium Term,Building an emergency fund,Employed
+eebb7ad2-b848-4bc6-a5fc-ed08f9c5fd04,Terry Mercer,1989-12-06,Other,616775,Yes,127140,>10%,Short Term,Paying off college debt,Employed
+b3cda484-c923-4d25-be96-cfb2151208ee,Gene Paul,2003-08-23,Male,322571,Yes,52423,<5%,Medium Term,Saving for children's education,Retired
+7162a002-d06a-466d-9454-85adc4c4026d,Brian Thomas,1963-05-18,Male,1701129,No,19096,<5%,Medium Term,Building an emergency fund,Employed
+320caa75-0b24-41a3-9092-045702c09101,Christopher Howard,1959-10-07,Other,1869687,Yes,73459,<5%,Medium Term,Securing a comfortable retirement,Self-Employed
+85ebcb27-236a-4165-83f1-56f9c9166b6b,Jeffery Austin,1985-05-31,Male,795101,No,487314,5-10%,Short Term,Buying a house,Self-Employed
+7ecbcdd3-5e52-4ecc-a6ff-8cfc05906076,James Murray,1965-01-03,Other,1798069,No,39443,<5%,Long Term,Paying off college debt,Retired
+424b5c0f-fba3-4d45-b0a8-9c627a5da35e,Stacie Ewing,2005-05-28,Female,174044,No,242012,>10%,Medium Term,Saving for children's education,Self-Employed
+e46c08a2-2822-4830-9a44-b292b5a80a78,Jessica Guzman,1963-02-16,Female,1820423,Yes,193266,<5%,Long Term,Investing in a business venture,Self-Employed
+cd2455b4-2b8a-487d-ac89-2835187a8628,Heather Jackson,2003-11-11,Male,830886,No,319674,>10%,Short Term,Paying off college debt,Self-Employed
+2e2b519b-f241-4204-b180-3045b71b06fa,Scott Terrell,1990-10-13,Other,1201197,No,272340,>10%,Medium Term,Buying a house,Self-Employed
+adb46c08-8baf-4d69-85a1-b5fe2220be58,Christopher Carey,1986-11-12,Male,1952035,No,161688,<5%,Medium Term,Building an emergency fund,Retired
+925f89f8-55fa-4125-83bd-330f912d6f8d,Mallory Simon,1961-02-11,Male,423405,Yes,462238,>10%,Medium Term,Buying a house,Unemployed
+3c7b2a0b-b2a2-4ac3-a944-26c2112805a8,Anna Williams,1993-02-12,Female,599266,Yes,420897,>10%,Long Term,Saving for children's education,Retired
+c0c7daa0-51f9-4230-af08-902dda7ee2c0,Lauren Johnson,1964-06-03,Male,330522,Yes,323925,5-10%,Short Term,Buying a house,Self-Employed
+2dd74967-d8ad-4d71-846b-29de6b157a3c,Peter Flores,1971-06-21,Other,1424972,No,109521,>10%,Long Term,Saving for vacation,Self-Employed
+712362d7-866c-48c2-993f-f67199b3fbbc,Audrey Frazier,1980-03-22,Other,1884262,Yes,182019,>10%,Long Term,Paying off college debt,Employed
+153d47e1-683a-49cf-81ea-bb6123f61d0f,Kevin Ramirez,1985-03-11,Other,531601,Yes,277068,<5%,Long Term,Investing in a business venture,Employed
+5b92a83d-ef6e-47aa-9c25-3e9283ac1bfb,Brad Robbins,1995-07-08,Female,1949680,Yes,324387,>10%,Long Term,Saving for children's education,Employed
+acbc7175-51fd-47a1-91cf-a419cbde6e2a,Richard Brown,1973-07-20,Male,1949652,No,125733,5-10%,Medium Term,Buying a house,Retired
+9ddf7866-c94f-4850-bdef-ee601f1d55bc,Raymond Good,1970-09-29,Male,888870,Yes,145678,<5%,Medium Term,Buying a house,Unemployed
+1eb588be-d6f6-4880-90b4-62aeb486339f,Crystal Brooks,1965-02-11,Male,727215,Yes,370597,>10%,Short Term,Buying a house,Retired
+17eb758b-52fd-44de-b41a-7a1aa2e3b768,Curtis Sherman,1998-02-10,Other,288764,Yes,444597,5-10%,Medium Term,Saving for vacation,Retired
+a513db1e-80dc-4b52-96ed-936f93238f7a,Eric Robinson,1966-12-03,Other,256262,No,439380,5-10%,Long Term,Paying off college debt,Retired
+159f2b4b-e40e-4951-8374-aa6b5bb26b14,Jacqueline Rios,2006-01-16,Male,1481601,No,453082,5-10%,Short Term,Investing in a business venture,Retired
+0ace92ef-a1b5-4eab-bbb9-d5a6926b1732,Mary Thornton,1995-09-12,Male,1932111,No,66039,5-10%,Long Term,Investing in a business venture,Retired
+8313a8a3-c515-4150-956c-29f7b3aa6a32,Sarah Soto,2006-01-13,Other,1243624,Yes,276872,<5%,Short Term,Buying a house,Employed
+56c055ff-dd31-48c8-a4e7-4ad1117a7dd3,Ashley Elliott,1999-04-01,Male,367510,No,68631,5-10%,Short Term,Investing in a business venture,Employed
+a321e127-8fe6-43f7-8073-2eff945ac915,Rachel Flores,1993-07-07,Male,356594,Yes,442022,>10%,Short Term,Building an emergency fund,Retired
+584defb8-5d26-450c-af44-0f26143b2f9a,Danny Robinson,1983-09-16,Other,1177036,Yes,131174,5-10%,Short Term,Buying a house,Unemployed
+71ca571d-40ad-4f7d-9329-a7c9d1dd72bc,James Owens,1992-08-15,Female,1673693,Yes,371633,5-10%,Long Term,Saving for children's education,Self-Employed
+0af7178d-ef87-4015-ad14-cf2d5da5d925,Richard Jackson,1971-01-11,Other,1581635,No,446699,<5%,Short Term,Building an emergency fund,Self-Employed
+2e3c1b19-c4b1-4b91-b7a7-40f91c77ec03,Kaitlin Vargas,1989-03-02,Female,1215303,Yes,356184,5-10%,Short Term,Building an emergency fund,Retired
+2bd9a69e-8b71-430f-b396-363af6df8619,Ana Benton,1997-06-10,Male,179670,No,461076,>10%,Long Term,Securing a comfortable retirement,Employed
+2a19a4db-4676-4253-8ba3-a965fc5dcf7c,Dr. Karen Terry,2002-03-17,Female,157969,Yes,318106,5-10%,Long Term,Securing a comfortable retirement,Self-Employed
+712394dc-24b6-4dba-bec3-1a4909288970,Mary Stone,2005-11-28,Male,279263,No,222912,>10%,Short Term,Saving for children's education,Employed
+8e1ec8f6-e647-416d-aaf0-cef40c92fe13,Darius Murphy,1963-11-15,Female,1280598,No,2001,5-10%,Long Term,Securing a comfortable retirement,Self-Employed
