@@ -1,11 +1,5 @@
 # Stock-Recommendation-Platform
 
-Certainly! Here's an expanded README content that includes more detailed information about the project, the analyses conducted, customer clustering, and the web page:
-
----
-
-# Stock Prediction with LSTM for Indian Stocks
-
 This project is designed to predict stock prices of leading Indian companies using Long Short-Term Memory (LSTM) neural networks. Time series data from the Indian stock market is crucial for investors, analysts, and data scientists to make informed decisions. This repository offers insights into analyzing stock risks, visualizing trends, clustering investors based on risk profiles, and forecasting future prices for Indian stocks.
 
 ## Features
