@@ -79,6 +79,3 @@ This project is designed to predict stock prices of leading Indian companies usi
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
----
-
-Feel free to modify or expand this content to better suit your project's specifics!
